@@ -2,4 +2,4 @@ logs/
 #restart.bat
 *.tmp
 
-plugins/dynmap/
+plugins/dynmap/web/tiles/
