@@ -1,3 +1,5 @@
 logs/
 #restart.bat
 *.tmp
+
+plugins/dynmap/
