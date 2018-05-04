@@ -2,7 +2,7 @@ worlds:
   tumbleworld:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: tumbleworld
     color: WHITE
     style: NORMAL
     pvp: 'true'
