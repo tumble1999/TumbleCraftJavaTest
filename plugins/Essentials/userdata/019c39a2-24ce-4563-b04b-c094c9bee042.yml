@@ -1,21 +1,21 @@
 lastAccountName: DrBatmanWho
 timestamps:
-  login: 1524930533840
+  login: 1525796972565
   lastteleport: 1524930541318
-  logout: 1524930545223
+  logout: 1525797303841
 ipAddress: 82.41.40.145
 lastlocation:
-  world: world
-  x: -185.2988373469378
-  y: 68.0
-  z: -169.31898345812823
-  yaw: 124.950096
-  pitch: 2.4000022
+  world: test
+  x: -497.17235383745856
+  y: 4.0
+  z: 2455.653446774227
+  yaw: 79.199974
+  pitch: -5.2499886
 logoutlocation:
-  world: world
-  x: -184.37718111153518
-  y: 68.0
-  z: -173.1642770075147
-  yaw: 260.55017
-  pitch: 3.7500026
+  world: test
+  x: -517.6542825848458
+  y: 4.0
+  z: 2441.818798636219
+  yaw: 188.54614
+  pitch: 1.9500337
 afk: false
