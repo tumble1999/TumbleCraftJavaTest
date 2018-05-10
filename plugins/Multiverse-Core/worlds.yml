@@ -98,7 +98,7 @@ worlds:
   test:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: test
     color: WHITE
     style: NORMAL
     pvp: 'true'
