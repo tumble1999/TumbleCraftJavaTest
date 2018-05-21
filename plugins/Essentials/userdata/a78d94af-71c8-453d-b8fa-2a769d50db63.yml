@@ -1,5 +1,13 @@
 lastAccountName: iUseVapeGG
 timestamps:
   login: 1526942740171
+  logout: 1526943489767
 ipAddress: 136.61.17.211
 afk: false
+logoutlocation:
+  world: world
+  x: -53.33116406650846
+  y: 72.15813185801134
+  z: 257.95751923668206
+  yaw: 45.530632
+  pitch: 16.192413
