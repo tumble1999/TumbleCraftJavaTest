@@ -11,7 +11,7 @@ BotToken: "NDQ1ODU5NDk5OTgzNTAzMzYx.DdwnTg.1QcyuGNwB9Y1w-re8bRdhb2XXl"
 Channels: {"minecraft-chat": "448478605299810311"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: "000000000000000000"
+DiscordConsoleChannelId: "448481261749534720"
 
 # Debug options, don't touch unless needed
 #
