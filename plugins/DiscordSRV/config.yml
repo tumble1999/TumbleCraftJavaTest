@@ -197,7 +197,7 @@ DiscordCannedResponses: {"!ip": "test.tumblecraft.ga", "!site": "http://tumblecr
 MinecraftDiscordAccountLinkedConsoleCommands: ["", "", ""]
 MinecraftDiscordAccountUnlinkedConsoleCommands: ["", "", ""]
 MinecraftDiscordAccountLinkedRoleNameToAddUserTo: "Linked"
-MinecraftDiscordAccountLinkedSetDiscordNicknameAsInGameName: true
+MinecraftDiscordAccountLinkedSetDiscordNicknameAsInGameName: false
 
 # Minecraft group -> Discord role synchronization
 #
