@@ -1,17 +1,17 @@
 lastAccountName: jacob50505
 timestamps:
   login: 1527093602590
-  logout: 1527093407907
+  logout: 1527094012047
   lastteleport: 1525797417847
 ipAddress: 80.198.72.15
 afk: false
 logoutlocation:
   world: test
-  x: -515.11520283138
-  y: 73.96952439357686
-  z: 2370.6388723904147
-  yaw: 111.456055
-  pitch: 39.149803
+  x: -503.54614159332266
+  y: 42.85709568940589
+  z: 2374.9693246098373
+  yaw: 109.80593
+  pitch: 12.599747
 lastlocation:
   world: tumbleworld
   x: -547.5
