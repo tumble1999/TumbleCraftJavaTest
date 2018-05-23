@@ -1,12 +1,12 @@
 lastAccountName: ItsJustDragon
 timestamps:
   login: 1527110583053
-  logout: 1527104529546
+  logout: 1527110593916
 ipAddress: 66.229.144.155
 logoutlocation:
   world: world
   x: -191.94894174076418
   y: 73.0
   z: 119.43032422533881
-  yaw: -339.89886
-  pitch: 24.299921
+  yaw: 0.90112305
+  pitch: 58.19992
