@@ -23,3 +23,5 @@ lastlocation:
 powertools:
   '269':
   - /replacenear 2 grass grass,dirt:1grasspath,cobblestone,grass,grasspath,grasspath
+  '155':
+  - heal DrBatmanWho
