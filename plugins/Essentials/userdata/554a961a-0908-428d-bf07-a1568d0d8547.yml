@@ -25,3 +25,5 @@ powertools:
   - /replacenear 2 grass grass,dirt:1grasspath,cobblestone,grass,grasspath,grasspath
   '155':
   - heal DrBatmanWho
+  '44':
+  - heal drbatmanwho
