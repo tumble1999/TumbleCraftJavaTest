@@ -4,6 +4,7 @@ timestamps:
   logout: 1527770188819
   kits:
     we: 1525799573640
+  lastteleport: 1528039640801
 ipAddress: 127.0.0.1
 logoutlocation:
   world: test
@@ -15,11 +16,11 @@ logoutlocation:
 afk: false
 lastlocation:
   world: test
-  x: -458.6869557140216
-  y: 4.0
-  z: 2827.8783823938015
-  yaw: -161.85423
-  pitch: 20.099972
+  x: -469.96635532394566
+  y: 18.90811062797724
+  z: 2492.611747498878
+  yaw: -117.6
+  pitch: 26.099895
 powertools:
   '269':
   - /replacenear 2 grass grass,dirt:1grasspath,cobblestone,grass,grasspath,grasspath
