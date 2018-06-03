@@ -26,3 +26,4 @@ powertools:
   - /replacenear 2 grass grass,dirt:1grasspath,cobblestone,grass,grasspath,grasspath
   '44':
   - heal drbatmanwho
+godmode: true
