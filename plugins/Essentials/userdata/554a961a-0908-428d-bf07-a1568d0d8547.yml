@@ -1,19 +1,19 @@
 lastAccountName: TumbleGamer
 timestamps:
   login: 1528153615372
-  logout: 1528153574311
+  logout: 1528154372260
   kits:
     we: 1525799573640
   lastteleport: 1528151903189
 ipAddress: 127.0.0.1
 logoutlocation:
   world: resourcepack
-  x: 124.34054647051542
+  x: 133.95158249418643
   y: 44.0
-  z: 252.66348209279576
-  yaw: -24.150537
-  pitch: 6.300083
-afk: true
+  z: 253.03116010442255
+  yaw: -292.0508
+  pitch: 5.550082
+afk: false
 lastlocation:
   world: resourcepack
   x: 128.53738250306523
