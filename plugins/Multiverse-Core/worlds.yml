@@ -146,7 +146,7 @@ worlds:
   resourcepack:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: resourcepack
     color: WHITE
     style: NORMAL
     pvp: 'true'
