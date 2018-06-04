@@ -194,7 +194,7 @@ worlds:
   tumble-jungle:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: tumble-jungle
     color: WHITE
     style: NORMAL
     pvp: 'true'
