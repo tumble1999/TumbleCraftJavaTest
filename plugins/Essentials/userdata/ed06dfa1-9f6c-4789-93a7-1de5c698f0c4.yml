@@ -1,16 +1,16 @@
 lastAccountName: Flomich
 timestamps:
   login: 1528119315564
-  logout: 1528118358894
+  logout: 1528119873056
 ipAddress: 80.110.71.128
 afk: false
 logoutlocation:
   world: test
-  x: -473.0042427578326
-  y: 21.0
-  z: 2472.145083198865
-  yaw: -63.855957
-  pitch: 35.99029
+  x: -357.55976345636134
+  y: 5.0
+  z: 2589.582447671448
+  yaw: -205.6482
+  pitch: 25.566275
 lastlocation:
   world: test
   x: -332.69256810091804
