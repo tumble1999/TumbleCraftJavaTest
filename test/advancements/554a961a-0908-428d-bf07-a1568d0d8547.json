@@ -109,9 +109,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "taiga_cold_hills": "2018-06-04 23:31:23 +0100",
       "mushroom_island_shore": "2018-06-04 23:22:31 +0100",
+      "birch_forest": "2018-06-04 23:30:44 +0100",
       "desert_hills": "2018-05-10 12:14:43 +0100",
       "plains": "2018-05-10 12:16:14 +0100",
+      "redwood_taiga": "2018-06-04 23:31:08 +0100",
+      "redwood_taiga_hills": "2018-06-04 23:30:52 +0100",
       "mushroom_island": "2018-06-04 23:25:25 +0100",
       "extreme_hills": "2018-06-04 20:27:35 +0100",
       "roofed_forest": "2018-06-04 20:26:57 +0100",
