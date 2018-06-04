@@ -1,13 +1,13 @@
 lastAccountName: Bootista
 timestamps:
   login: 1528100988546
-  logout: 1526893090948
+  logout: 1528101132120
 ipAddress: 217.103.223.77
 afk: false
 logoutlocation:
   world: world
-  x: -23.593520555570763
-  y: 125.23687813095694
-  z: 260.4141054434555
-  yaw: -191.09995
-  pitch: 41.999996
+  x: -13.563828353672035
+  y: 100.86779037503811
+  z: 165.74251001821415
+  yaw: -76.50037
+  pitch: 31.349981
