@@ -111,6 +111,8 @@
     "criteria": {
       "desert_hills": "2018-05-10 12:14:43 +0100",
       "plains": "2018-05-10 12:16:14 +0100",
+      "extreme_hills": "2018-06-04 20:27:35 +0100",
+      "roofed_forest": "2018-06-04 20:26:57 +0100",
       "river": "2018-06-03 16:28:42 +0100",
       "desert": "2018-06-03 16:29:38 +0100"
     },
@@ -161,6 +163,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2018-05-10 12:28:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2018-06-04 20:26:56 +0100"
     },
     "done": true
   },
@@ -218,6 +226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2018-06-04 20:26:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2018-05-10 18:33:48 +0100"
@@ -236,9 +250,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2018-06-04 20:26:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-05-10 18:33:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2018-06-04 20:26:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2018-06-04 20:26:56 +0100"
     },
     "done": true
   },
@@ -281,6 +313,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-06-03 16:27:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2018-06-04 20:26:56 +0100"
     },
     "done": true
   },
