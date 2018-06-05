@@ -19,8 +19,8 @@ lastlocation:
   x: 228.5
   y: 58.0
   z: 227.5
-  yaw: -223.35037
-  pitch: -58.65003
+  yaw: -223.50044
+  pitch: -59.100025
 powertools:
   '269':
   - /replacenear 2 grass grass,dirt:1grasspath,cobblestone,grass,grasspath,grasspath
