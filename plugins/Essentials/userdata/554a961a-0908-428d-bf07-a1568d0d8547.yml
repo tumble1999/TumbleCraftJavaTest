@@ -16,9 +16,9 @@ logoutlocation:
 afk: false
 lastlocation:
   world: resourcepack
-  x: 265.4872544450072
-  y: 41.0
-  z: 228.96055510672764
+  x: -551.4992859597551
+  y: 148.0
+  z: 667.402005545795
   yaw: 180.4184
   pitch: 18.045225
 powertools:
