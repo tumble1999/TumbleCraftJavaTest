@@ -2,7 +2,7 @@ QuestMap:
   ed06dfa1-9f6c-4789-93a7-1de5c698f0c4:
   - ==: AT.MSev.Mango_Tumble.NPCs.Quest.Quests.KillQuest
     quester: ed06dfa1-9f6c-4789-93a7-1de5c698f0c4
-    amount: 4
+    amount: 3
     target: Zombie
     id: ZombieQuest
     state: RUNNING
