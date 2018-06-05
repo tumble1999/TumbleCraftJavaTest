@@ -2,7 +2,7 @@ lastAccountName: ShingoriTokira
 timestamps:
   login: 1528214679334
   logout: 1528214102785
-  lastteleport: 1528215831027
+  lastteleport: 1528215999905
 ipAddress: 23.112.41.190
 logoutlocation:
   world: resourcepack
@@ -13,8 +13,8 @@ logoutlocation:
   pitch: 17.486012
 lastlocation:
   world: resourcepack
-  x: -551.5
-  y: 236.0
-  z: 667.5
-  yaw: -272.17053
-  pitch: -38.117947
+  x: -477.00237451681613
+  y: 40.0
+  z: 689.3400649552178
+  yaw: -3.4993591
+  pitch: 21.44858
