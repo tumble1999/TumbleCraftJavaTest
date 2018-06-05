@@ -377,7 +377,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "slime": "2018-05-10 19:19:38 +0100"
+      "slime": "2018-05-10 19:19:38 +0100",
+      "zombie": "2018-06-05 18:25:09 +0100"
     },
     "done": false
   },
