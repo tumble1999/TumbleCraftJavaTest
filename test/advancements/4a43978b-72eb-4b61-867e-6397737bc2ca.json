@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2018-06-05 17:05:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-05-24 21:43:13 +0100"
@@ -115,6 +121,7 @@
       "mushroom_island": "2018-06-05 16:51:29 +0100",
       "taiga_cold": "2018-06-04 23:25:16 +0100",
       "roofed_forest": "2018-06-05 16:55:00 +0100",
+      "jungle": "2018-06-05 17:04:51 +0100",
       "desert": "2018-06-04 23:04:45 +0100"
     },
     "done": false
@@ -140,6 +147,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2018-06-04 23:11:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2018-06-05 17:08:56 +0100"
     },
     "done": true
   },
@@ -227,6 +240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2018-06-05 17:08:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2018-05-24 21:43:13 +0100"
@@ -236,6 +255,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2018-06-04 23:17:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2018-06-05 17:08:56 +0100"
     },
     "done": true
   }
