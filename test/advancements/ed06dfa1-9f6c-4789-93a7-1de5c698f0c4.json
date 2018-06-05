@@ -53,17 +53,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2018-06-05 16:29:02 +0100"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie": "2018-06-05 16:22:33 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2018-06-05 16:29:02 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
@@ -111,6 +111,7 @@
     "criteria": {
       "desert_hills": "2018-06-03 16:23:45 +0100",
       "plains": "2018-06-03 16:31:46 +0100",
+      "mushroom_island": "2018-06-05 16:39:25 +0100",
       "desert": "2018-06-03 16:25:30 +0100"
     },
     "done": false
