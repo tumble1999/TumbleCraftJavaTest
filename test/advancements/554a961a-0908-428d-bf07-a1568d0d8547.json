@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2018-06-05 11:36:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "taiga_cold_hills": "2018-06-04 23:31:23 +0100",
@@ -336,6 +342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2018-06-05 11:36:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "slime": "2018-05-10 19:19:38 +0100"
@@ -357,6 +369,12 @@
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2018-05-10 18:33:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2018-06-05 11:36:08 +0100"
     },
     "done": true
   },
