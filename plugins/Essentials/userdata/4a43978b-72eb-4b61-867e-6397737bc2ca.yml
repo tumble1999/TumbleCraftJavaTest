@@ -12,9 +12,9 @@ logoutlocation:
   yaw: -265.51617
   pitch: 14.1582155
 lastlocation:
-  world: resourcepack
-  x: 232.53605927112133
-  y: 52.0
-  z: 287.57508632789387
-  yaw: -260.46292
-  pitch: 74.057526
+  world: test
+  x: 474.3435408804383
+  y: 4.0
+  z: 682.250403005214
+  yaw: -193.9698
+  pitch: 90.0
