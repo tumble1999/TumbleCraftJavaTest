@@ -109,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2018-06-05 16:40:17 +0100",
       "desert_hills": "2018-06-03 16:23:45 +0100",
       "plains": "2018-06-03 16:31:46 +0100",
       "mushroom_island": "2018-06-05 16:39:25 +0100",
