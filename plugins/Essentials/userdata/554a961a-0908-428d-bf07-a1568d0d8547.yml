@@ -13,7 +13,7 @@ logoutlocation:
   z: 265.87854198548735
   yaw: 89.24945
   pitch: 12.149979
-afk: false
+afk: true
 lastlocation:
   world: resourcepack
   x: 260.67200187113747
