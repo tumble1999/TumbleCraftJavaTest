@@ -6,11 +6,11 @@ timestamps:
 ipAddress: 82.41.40.145
 lastlocation:
   world: resourcepack
-  x: 292.6316153436141
-  y: 230.0
-  z: 231.49285525999295
-  yaw: 306.59998
-  pitch: 2.9999838
+  x: 236.30000001192093
+  y: 52.0
+  z: 282.5009301477112
+  yaw: 89.699905
+  pitch: 3.749972
 logoutlocation:
   world: resourcepack
   x: 183.41351522508143
