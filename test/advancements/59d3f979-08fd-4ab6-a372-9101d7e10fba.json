@@ -43,6 +43,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie": "2018-06-07 13:06:10 +0100",
       "spider": "2018-05-10 12:31:48 +0100"
     },
     "done": false
@@ -118,6 +119,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-05-10 12:14:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2018-06-07 13:06:57 +0100"
     },
     "done": true
   },

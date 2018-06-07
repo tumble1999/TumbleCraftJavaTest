@@ -109,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2018-06-07 13:06:57 +0100",
       "mushroom_island_shore": "2018-06-07 12:43:08 +0100",
       "swampland": "2018-06-07 12:47:31 +0100",
       "birch_forest": "2018-06-07 13:00:56 +0100",
