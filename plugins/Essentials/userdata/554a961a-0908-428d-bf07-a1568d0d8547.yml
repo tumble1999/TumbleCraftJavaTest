@@ -26,4 +26,6 @@ powertools:
   - /replacenear 2 grass grass,dirt:1grasspath,cobblestone,grass,grasspath,grasspath
   '321':
   - summon minecraft:painting
+  '16':
+  - setblock ~ ~ ~ minecraft:end_gateway
 godmode: false
