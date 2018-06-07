@@ -7,10 +7,10 @@ ipAddress: 82.41.40.145
 lastlocation:
   world: resourcepack
   x: 236.30000001192093
-  y: 52.03584062504456
-  z: 277.4684056600194
-  yaw: -264.89996
-  pitch: 4.3500056
+  y: 52.0
+  z: 282.5406185010377
+  yaw: 83.400024
+  pitch: 12.750008
 logoutlocation:
   world: resourcepack
   x: 256.5
