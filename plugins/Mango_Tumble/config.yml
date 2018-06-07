@@ -1,6 +1,6 @@
 QuestMap:
   ed06dfa1-9f6c-4789-93a7-1de5c698f0c4:
-  - &id004
+  - &id005
     ==: AT.MSev.Mango_Tumble.NPCs.Quest.Quests.KillQuest
     quester: 554a961a-0908-428d-bf07-a1568d0d8547
     amount: 0
@@ -8,11 +8,11 @@ QuestMap:
     id: ZombieQuest
     state: COMPLETED
   554a961a-0908-428d-bf07-a1568d0d8547:
-  - *id004
+  - *id005
   59d3f979-08fd-4ab6-a372-9101d7e10fba:
   - ==: AT.MSev.Mango_Tumble.NPCs.Quest.Quests.KillQuest
     quester: 59d3f979-08fd-4ab6-a372-9101d7e10fba
-    amount: 1
+    amount: 0
     target: Zombie
     id: ZombieQuest
-    state: RUNNING
+    state: COMPLETED
