@@ -16,11 +16,11 @@ logoutlocation:
 afk: false
 lastlocation:
   world: resourcepack
-  x: 265.4839203633074
-  y: 41.0
-  z: 236.170515953559
-  yaw: 349.18832
-  pitch: 6.4500313
+  x: 293.3182679811651
+  y: 230.0
+  z: 232.32581544275294
+  yaw: -71.70004
+  pitch: 6.6000285
 powertools:
   '269':
   - /replacenear 2 grass grass,dirt:1grasspath,cobblestone,grass,grasspath,grasspath
