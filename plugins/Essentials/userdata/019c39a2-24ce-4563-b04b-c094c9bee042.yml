@@ -5,12 +5,12 @@ timestamps:
   logout: 1528383515845
 ipAddress: 82.41.40.145
 lastlocation:
-  world: test
-  x: -484.83877609740694
-  y: 4.0
-  z: 2450.1890034728217
-  yaw: 65.42865
-  pitch: 5.3999844
+  world: resourcepack
+  x: 291.69999998807907
+  y: 229.0
+  z: 231.30749574296948
+  yaw: 300.3003
+  pitch: -17.40001
 logoutlocation:
   world: test
   x: -484.83877609740694
