@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2018-06-07 12:51:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-05-10 12:21:05 +0100"
@@ -95,9 +101,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2018-06-07 12:51:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_carpet": {
     "criteria": {
       "has_green_wool": "2018-05-10 12:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2018-06-07 12:51:38 +0100"
     },
     "done": true
   },
@@ -220,6 +238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2018-06-07 12:51:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2018-05-10 12:19:42 +0100"
@@ -241,6 +265,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2018-05-10 18:33:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2018-06-07 12:51:38 +0100"
     },
     "done": true
   },
@@ -271,6 +301,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2018-06-04 20:26:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2018-06-07 12:51:38 +0100"
     },
     "done": true
   },
@@ -334,6 +370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2018-06-07 12:51:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2018-05-10 12:31:14 +0100"
@@ -355,6 +397,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2018-05-10 12:21:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2018-06-07 12:51:38 +0100"
     },
     "done": true
   },
@@ -431,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2018-06-07 12:51:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2018-05-10 19:19:46 +0100"
@@ -440,6 +494,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2018-05-10 12:31:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2018-06-07 12:51:38 +0100"
     },
     "done": true
   },
@@ -494,6 +554,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-06-03 16:27:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2018-06-07 12:51:38 +0100"
     },
     "done": true
   },
