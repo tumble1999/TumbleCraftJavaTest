@@ -16,3 +16,4 @@
 [Thu, 7. Jun 2018 20:16:58 BST | ID 445218393163825152] TumbleNet: Invalid command: `/op InfaReQt`
 [Thu, 7. Jun 2018 20:17:09 BST | ID 336869008148135948] tumblegamer: whitelist add InfaReQt
 [Fri, 8. Jun 2018 14:28:17 BST | ID 336869008148135948] tumblegamer: gamerule commandBlockOutput false
+[Fri, 8. Jun 2018 14:28:57 BST | ID 336869008148135948] tumblegamer: gamerule logAdminCommands false
