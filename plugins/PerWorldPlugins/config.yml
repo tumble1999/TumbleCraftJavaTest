@@ -18,7 +18,8 @@ limit:
   Citizens: []
   FastAsyncWorldEdit: []
   ElsweyrsHeads: []
-  Essentials: []
+  Essentials:
+    - test
   VoidWorld: []
   Vivecraft-Spigot-Extensions: []
   Mango_Core: []
