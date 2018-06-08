@@ -19,7 +19,7 @@ limit:
   FastAsyncWorldEdit: []
   ElsweyrsHeads: []
   Essentials:
-    - test
+  - test
   VoidWorld: []
   Vivecraft-Spigot-Extensions: []
   Mango_Core: []
