@@ -29,3 +29,4 @@ powertools:
   '16':
   - setblock ~ ~ ~ minecraft:end_gateway
 godmode: false
+nickname: §e§lTumbleGamer
