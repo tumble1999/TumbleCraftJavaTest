@@ -25,7 +25,7 @@ powertools:
   '269':
   - /replacenear 2 grass grass,dirt:1grasspath,cobblestone,grass,grasspath,grasspath
   '321':
-  - summon minecraft:painting
+  - minecraft:tp @e[type=villager]
   '16':
   - setblock ~ ~ ~ minecraft:end_gateway
   '166':
