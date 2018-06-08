@@ -29,6 +29,6 @@ powertools:
   '16':
   - setblock ~ ~ ~ minecraft:end_gateway
   '166':
-  - minecraft:kill @e[r=1,type=!Player]
+  - minecraft:kill @e[r=3,type=!Player]
 godmode: false
 nickname: §e§lTumbleGamer
