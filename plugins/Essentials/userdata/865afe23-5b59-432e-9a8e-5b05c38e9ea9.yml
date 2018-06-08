@@ -5,9 +5,9 @@ timestamps:
 ipAddress: 145.53.185.221
 nickname: §b§lInfaReQt
 lastlocation:
-  world: test
-  x: -462.69999998807907
-  y: 4.200000047683716
-  z: 2532.449999988079
-  yaw: -154.69153
-  pitch: 18.462082
+  world: island
+  x: -25.80272952318061
+  y: 70.0
+  z: 50.0761824242978
+  yaw: -350.6875
+  pitch: 15.07116
