@@ -11,16 +11,33 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 11
+commands:
+  tab-complete: 0
+  silent-commandblock-console: true
+  log: true
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  spam-exclusions:
+  - /skill
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  filter-creative-items: true
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
-  item-dirty-ticks: 20
+  filter-creative-items: true
+  bungeecord: false
   late-bind: false
   sample-count: 12
-  bungeecord: false
+  user-cache-size: 1000
+  int-cache-limit: 1024
+  item-dirty-ticks: 20
+  player-shuffle: 0
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: START.bat
   attribute:
     maxHealth:
       max: 2048.0
@@ -28,24 +45,7 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  int-cache-limit: 1024
-  user-cache-size: 1000
-  player-shuffle: 0
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: START.bat
   netty-threads: 4
-commands:
-  tab-complete: 0
-  silent-commandblock-console: true
-  spam-exclusions:
-  - /skill
-  log: true
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
