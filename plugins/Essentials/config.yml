@@ -148,7 +148,7 @@ disabled-commands:
   - weather
   - tp
 #  - nick
-  - clear
+#  - clear
 
 # These commands will be shown to players with socialSpy enabled.
 # You can add commands from other plugins you may want to track or
