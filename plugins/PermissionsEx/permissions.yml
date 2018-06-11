@@ -1,7 +1,48 @@
 groups:
-  default:
+  admin:
+    options:
+      prefix: "Admin"
+  mod:
+    options:
+      prefix: "Mod"
+  jrmod:
+    options:
+      prefix: "Jr.Mod"
+  helper:
+    options:
+      prefix: "Helper"
+  dev:
+    options:
+      prefix: "Developer"
+  story:
+    options:
+      prefix: "Story Writer"
+  music:
+    options:
+      prefix: "Musician"
+  3d:
+    options:
+      prefix: "3D Modeler"
+  artist:
+    options:
+      prefix: "Artist"
+  worldpainter:
+    options:
+      prefix: "World Painter"
+  builder:
+    options:
+      prefix: "Builder"
+  member:
     options:
       default: true
     permissions:
     - modifyworld.*
 schema-version: 1
+users:
+  554a961a-0908-428d-bf07-a1568d0d8547:
+    options:
+      name: TumbleGamer
+    group:
+    - builder
+  group:
+    permissions: []
