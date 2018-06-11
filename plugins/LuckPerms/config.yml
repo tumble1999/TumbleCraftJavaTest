@@ -331,13 +331,13 @@ meta-formatting:
       - "highest_on_track_staff"
     start-spacer: ""
     middle-spacer: " "
-    end-spacer: ""
+    end-spacer: " "
   suffix:
     format:
       - "highest"
     start-spacer: ""
     middle-spacer: " "
-    end-spacer: " "
+    end-spacer: ""
 
 
 
