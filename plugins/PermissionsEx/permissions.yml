@@ -32,6 +32,7 @@ groups:
   builder:
     options:
       prefix: '&e[Builder] '
+    inher
   member:
     options:
       default: true
