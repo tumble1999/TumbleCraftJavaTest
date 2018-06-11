@@ -327,7 +327,7 @@ log-notify: true
 meta-formatting:
   prefix:
     format:
-      - "highest_on_track_staffcreative"
+      - "highest_on_track_creativestaff"
       - "highest_on_track_staff"
     start-spacer: ""
     middle-spacer: " "
