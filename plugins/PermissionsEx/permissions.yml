@@ -12,7 +12,7 @@ groups:
     options:
       prefix: '&1[Helper] '
     inheritence:
-      - member
+    - member
   dev:
     options:
       prefix: '&c[Developer] '
@@ -35,7 +35,7 @@ groups:
     options:
       prefix: '&e[Builder] '
     inheritence:
-      - member
+    - member
   member:
     options:
       default: true
@@ -47,7 +47,8 @@ users:
   554a961a-0908-428d-bf07-a1568d0d8547:
     options:
       name: TumbleGamer
-    group: []
+    group:
+    - builder
     permissions:
     - '*'
   group:
