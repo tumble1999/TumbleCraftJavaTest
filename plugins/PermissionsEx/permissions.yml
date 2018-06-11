@@ -7,10 +7,12 @@ groups:
       prefix: '&2[Mod] '
   jrmod:
     options:
-      prefix: '&3[Jr.Mod] '
+      prefix: '&3[Jr .Mod] '
   helper:
     options:
       prefix: '&1[Helper] '
+    inheritence:
+      - member
   dev:
     options:
       prefix: '&c[Developer] '
@@ -32,7 +34,8 @@ groups:
   builder:
     options:
       prefix: '&e[Builder] '
-    inher
+    inheritence:
+      - member
   member:
     options:
       default: true
