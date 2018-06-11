@@ -1,37 +1,37 @@
 groups:
   admin:
     options:
-      prefix: Admin
+      prefix: '&4[Admin] '
   mod:
     options:
-      prefix: Mod
+      prefix: Mod '
   jrmod:
     options:
-      prefix: Jr.Mod
+      prefix: Jr.Mod '
   helper:
     options:
-      prefix: Helper
+      prefix: Helper '
   dev:
     options:
-      prefix: Developer
+      prefix: Developer '
   story:
     options:
-      prefix: Story Writer
+      prefix: Story Writer '
   music:
     options:
-      prefix: Musician
+      prefix: Musician '
   3d:
     options:
-      prefix: 3D Modeler
+      prefix: 3D Modeler '
   artist:
     options:
-      prefix: Artist
+      prefix: Artist '
   worldpainter:
     options:
-      prefix: World Painter
+      prefix: World Painter '
   builder:
     options:
-      prefix: Builder
+      prefix: Builder '
   member:
     options:
       default: true
