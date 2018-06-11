@@ -16,10 +16,10 @@ groups:
       prefix: '&cDeveloper '
   story:
     options:
-      prefix: 'Story Writer '
+      prefix: '&7Story Writer '
   music:
     options:
-      prefix: 'Musician '
+      prefix: '6Musician '
   3d:
     options:
       prefix: '3D Modeler '
