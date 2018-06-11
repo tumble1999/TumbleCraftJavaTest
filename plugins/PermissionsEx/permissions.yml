@@ -44,5 +44,7 @@ users:
       name: TumbleGamer
     group:
     - builder
+    permissions:
+      - '*'
   group:
     permissions: []
