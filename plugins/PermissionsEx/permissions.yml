@@ -35,6 +35,7 @@ groups:
   member:
     options:
       default: true
+      prefix: '&7'
     permissions:
     - modifyworld.*
 schema-version: 1
