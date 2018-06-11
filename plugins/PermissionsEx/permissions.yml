@@ -4,34 +4,34 @@ groups:
       prefix: '&4[Admin] '
   mod:
     options:
-      prefix: '&2Mod '
+      prefix: '&2[Mod] '
   jrmod:
     options:
-      prefix: '&3Jr.Mod '
+      prefix: '&3[Jr.Mod] '
   helper:
     options:
-      prefix: '&1Helper '
+      prefix: '&1[Helper] '
   dev:
     options:
-      prefix: '&cDeveloper '
+      prefix: '&c[Developer] '
   story:
     options:
-      prefix: '&7Story Writer '
+      prefix: '&7[Story Writer] '
   music:
     options:
-      prefix: '6Musician '
+      prefix: '&6[Musician] '
   3d:
     options:
-      prefix: '3D Modeler '
+      prefix: '&a[3D Modeler] '
   artist:
     options:
-      prefix: 'Artist '
+      prefix: '&d[Artist] '
   worldpainter:
     options:
-      prefix: 'World Painter '
+      prefix: '&e[World Painter] '
   builder:
     options:
-      prefix: 'Builder '
+      prefix: '&e[Builder] '
   member:
     options:
       default: true
