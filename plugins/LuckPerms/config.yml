@@ -337,7 +337,7 @@ meta-formatting:
       - "highest"
     start-spacer: ""
     middle-spacer: " "
-    end-spacer: ""
+    end-spacer: " "
 
 
 
