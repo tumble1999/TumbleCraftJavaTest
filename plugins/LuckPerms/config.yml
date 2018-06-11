@@ -330,7 +330,6 @@ meta-formatting:
       - "highest_on_track_creativestaff"
       - "highest_on_track_staff"
       - "highest_on_track_cult"
-      - "highest_on_track_cult"
     start-spacer: ""
     middle-spacer: ""
     end-spacer: ""
