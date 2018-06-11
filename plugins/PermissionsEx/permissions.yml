@@ -4,16 +4,16 @@ groups:
       prefix: '&4[Admin] '
   mod:
     options:
-      prefix: 'Mod '
+      prefix: '&2Mod '
   jrmod:
     options:
-      prefix: 'Jr.Mod '
+      prefix: '&3Jr.Mod '
   helper:
     options:
-      prefix: 'Helper '
+      prefix: '&1Helper '
   dev:
     options:
-      prefix: 'Developer '
+      prefix: '&cDeveloper '
   story:
     options:
       prefix: 'Story Writer '
