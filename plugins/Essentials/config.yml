@@ -345,6 +345,9 @@ list:
     # To merge groups, list the groups you wish to merge
     #Staff: owner admin moderator
     Admins: owner admin
+    Staff: mod jrmod helper
+    CreativeStaf: 
+
     # To limit groups, set a max user limit
     #builder: 20
     # To hide groups, set the group as hidden
