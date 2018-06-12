@@ -18,9 +18,9 @@ lastlocation:
   world: resourcepack
   x: 236.30000001192093
   y: 52.0
-  z: 277.50149719425826
-  yaw: 89.54873
-  pitch: 10.500075
+  z: 277.5353180340444
+  yaw: 86.54885
+  pitch: 13.800104
 powertools:
   '269':
   - /replacenear 2 grass grass,dirt:1grasspath,cobblestone,grass,grasspath,grasspath
