@@ -44,5 +44,5 @@ aliases:
   - lp user $$1 parents add $$2
   unrank:
   - lp user $$1 parents remove $$2
-  unrank:
-  - lp user $$1 parents remove $$2
+  ranks:
+  - lp user $$1 parents info
