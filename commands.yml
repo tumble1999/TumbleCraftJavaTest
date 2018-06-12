@@ -39,4 +39,6 @@ aliases:
   promote:
   - lp user $$1 promote staff
   demote:
-  - lp user 
+  - lp user $$1 demote staff
+  rank:
+  - lp user $$1 parents
