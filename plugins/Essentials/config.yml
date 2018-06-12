@@ -346,7 +346,8 @@ list:
     #Staff: owner admin moderator
     Admins: owner admin
     Staff: mod jrmod helper
-    CreativeStaff: dev story musician  
+    CreativeStaff: dev story musician 3d worldpainter builder artist
+    Player: ace under
 
     # To limit groups, set a max user limit
     #builder: 20
