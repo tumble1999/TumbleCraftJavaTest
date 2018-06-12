@@ -1,6 +1,7 @@
 lastAccountName: triple_craft
 timestamps:
   login: 1528837503170
+  logout: 1528840356970
 ipAddress: 110.140.189.239
 afk: false
 lastlocation:
@@ -10,3 +11,10 @@ lastlocation:
   z: 728.6999999880791
   yaw: 278.40024
   pitch: 16.199986
+logoutlocation:
+  world: resourcepack
+  x: 433.5
+  y: 75.0
+  z: 732.5
+  yaw: 0.0
+  pitch: 0.0
