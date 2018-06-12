@@ -51,7 +51,7 @@ npc:
     max-packet-entries: 15
     max-speed: 100
   tablist:
-    disable: true
+    disable: false
   chunks:
     always-keep-loaded: false
   skins:
