@@ -41,4 +41,4 @@ aliases:
   demote:
   - lp user $$1 demote staff
   rank:
-  - lp user $$1 parents
+  - lp user $$1 parents add 
