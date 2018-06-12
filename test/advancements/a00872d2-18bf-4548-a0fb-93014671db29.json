@@ -97,7 +97,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "plains": "2018-06-12 22:05:04 +0100"
+      "mushroom_island_shore": "2018-06-12 22:40:39 +0100",
+      "swampland": "2018-06-12 22:43:12 +0100",
+      "plains": "2018-06-12 22:05:04 +0100",
+      "desert": "2018-06-12 22:40:20 +0100"
     },
     "done": false
   }
