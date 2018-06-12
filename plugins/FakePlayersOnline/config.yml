@@ -15,7 +15,7 @@ fake-players:
     join: '&ePlayer &6%player% &ejoined to server'
     leave: '&ePlayer &6%player% &edisconnected'
 citizens:
-  enabled: true
+  enabled: false
   prefix: '&3'
 fake-max-players:
   enabled: false
