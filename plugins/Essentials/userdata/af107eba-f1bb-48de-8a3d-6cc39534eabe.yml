@@ -1,4 +1,12 @@
 lastAccountName: spacemangreg81
 timestamps:
   login: 1528765417612
+  logout: 1528765462555
 ipAddress: 172.72.135.74
+logoutlocation:
+  world: test
+  x: -528.4366006697318
+  y: 4.0
+  z: 2431.617096130676
+  yaw: -6.555954
+  pitch: 16.960144
