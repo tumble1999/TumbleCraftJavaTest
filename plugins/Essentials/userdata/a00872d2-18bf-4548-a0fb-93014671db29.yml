@@ -3,3 +3,10 @@ timestamps:
   login: 1528837503170
 ipAddress: 110.140.189.239
 afk: true
+lastlocation:
+  world: test
+  x: -366.2855185502743
+  y: 16.0
+  z: 2586.2862880452503
+  yaw: -276.0028
+  pitch: 28.04988
