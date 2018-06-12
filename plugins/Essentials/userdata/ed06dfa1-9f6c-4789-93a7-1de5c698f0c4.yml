@@ -1,16 +1,16 @@
 lastAccountName: Flomich
 timestamps:
   login: 1528802774247
-  logout: 1528373735390
+  logout: 1528802861175
 ipAddress: 80.110.71.128
 afk: false
 logoutlocation:
   world: tumble-jungle
-  x: -273.790071824581
-  y: 163.51818916951035
-  z: 934.4159064333273
-  yaw: 197.2377
-  pitch: 81.72279
+  x: -276.14982558505756
+  y: 141.0
+  z: 798.8799614334613
+  yaw: 207.34843
+  pitch: 52.647907
 lastlocation:
   world: resourcepack
   x: -551.5
