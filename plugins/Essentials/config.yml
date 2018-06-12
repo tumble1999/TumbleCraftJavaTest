@@ -348,6 +348,7 @@ list:
     Staff: mod jrmod helper
     CreativeStaff: dev story musician 3d worldpainter builder artist
     Player: ace under
+    Unranked: default
 
     # To limit groups, set a max user limit
     #builder: 20
