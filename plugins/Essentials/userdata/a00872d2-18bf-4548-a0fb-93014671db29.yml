@@ -4,9 +4,9 @@ timestamps:
 ipAddress: 110.140.189.239
 afk: false
 lastlocation:
-  world: test
-  x: -405.38442234707094
-  y: 4.0
-  z: 2591.6437360573277
-  yaw: 72.748055
-  pitch: 21.29993
+  world: test_end
+  x: -40.42732603631025
+  y: 83.73270540185611
+  z: 47.21025530842471
+  yaw: -99.29991
+  pitch: 55.20004
