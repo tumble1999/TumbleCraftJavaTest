@@ -3,7 +3,7 @@ timestamps:
   login: 1528814332719
   logout: 1528814276949
 ipAddress: 217.103.223.77
-afk: true
+afk: false
 logoutlocation:
   world: world
   x: -55.78892004213523
