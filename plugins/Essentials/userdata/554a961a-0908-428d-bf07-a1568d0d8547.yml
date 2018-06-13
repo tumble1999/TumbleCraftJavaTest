@@ -31,5 +31,5 @@ powertools:
   '166':
   - minecraft:kill @e[r=3,type=!Player]
   '383':
-  - npc create jeb_
+  - npc create Steve
 godmode: false
