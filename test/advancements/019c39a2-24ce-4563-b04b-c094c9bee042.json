@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-13 15:58:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2018-05-11 17:42:35 +0100"
@@ -80,6 +86,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2018-05-15 16:26:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-13 15:58:38 +0100"
     },
     "done": true
   },
@@ -132,9 +144,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-13 15:58:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2018-05-26 17:55:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2018-06-13 15:58:38 +0100"
     },
     "done": true
   },
@@ -153,6 +177,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2018-06-06 20:49:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-13 15:58:38 +0100"
     },
     "done": true
   },
