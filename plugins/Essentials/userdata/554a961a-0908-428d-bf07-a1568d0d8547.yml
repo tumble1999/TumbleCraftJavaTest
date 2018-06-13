@@ -31,5 +31,5 @@ powertools:
   '166':
   - minecraft:kill @e[r=3,type=!Player]
   '383':
-  - npc create C418
+  - npc create God
 godmode: false
