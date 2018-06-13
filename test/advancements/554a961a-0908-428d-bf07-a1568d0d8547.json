@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-13 16:00:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2018-06-03 16:27:32 +0100"
@@ -116,6 +122,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2018-06-05 12:07:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-13 16:00:49 +0100"
     },
     "done": true
   },
@@ -473,6 +485,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-13 16:00:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2018-05-26 17:54:50 +0100"
@@ -720,6 +738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2018-06-13 16:00:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2018-05-10 12:21:05 +0100"
@@ -735,6 +759,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2018-06-07 12:51:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2018-06-13 16:00:49 +0100"
     },
     "done": true
   },
