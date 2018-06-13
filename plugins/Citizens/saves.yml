@@ -80,7 +80,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-250.6547'
+        x: '-250.6546'
         y: '4.0'
         z: '2438.4475'
         yaw: '2.5953369140625'
@@ -91,7 +91,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -114,7 +114,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -143,7 +143,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,speech,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,speech,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -172,7 +172,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,speech,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,speech,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -200,7 +200,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -228,7 +228,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -245,7 +245,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-245.2993'
+        x: '-245.2992'
         y: '4.0'
         z: '2440.8566'
         yaw: '20.292724609375'
@@ -256,7 +256,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -284,7 +284,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -312,7 +312,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -340,7 +340,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -368,7 +368,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -385,7 +385,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-249.3569'
+        x: '-249.3568'
         y: '4.0'
         z: '2443.3153'
         yaw: '-4.9122314453125'
@@ -396,7 +396,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -424,7 +424,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -441,7 +441,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-247.3526'
+        x: '-247.3525'
         y: '4.0'
         z: '2443.9776'
         yaw: '7.985595703125'
@@ -452,7 +452,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -469,7 +469,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-246.1213'
+        x: '-246.1212'
         y: '4.0'
         z: '2444.1444'
         yaw: '7.985595703125'
@@ -480,7 +480,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -497,7 +497,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-244.5324'
+        x: '-244.5323'
         y: '4.0'
         z: '2444.6015'
         yaw: '21.9351806640625'
@@ -508,7 +508,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -525,7 +525,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-243.3105'
+        x: '-243.3104'
         y: '4.0'
         z: '2445.4153'
         yaw: '15.1865234375'
@@ -536,7 +536,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -564,7 +564,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -592,7 +592,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -620,7 +620,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -648,7 +648,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -676,7 +676,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -704,7 +704,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -732,7 +732,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -760,7 +760,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -788,7 +788,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -816,7 +816,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -844,7 +844,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -872,7 +872,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -900,7 +900,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -928,7 +928,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -956,7 +956,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -984,7 +984,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1012,7 +1012,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1040,7 +1040,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1068,7 +1068,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1096,7 +1096,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1124,7 +1124,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1152,7 +1152,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1180,7 +1180,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1208,7 +1208,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1236,7 +1236,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1264,7 +1264,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1292,7 +1292,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1320,7 +1320,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1348,7 +1348,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1376,7 +1376,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1404,7 +1404,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1432,7 +1432,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1451,7 +1451,7 @@ npc:
         world: test
         x: '-353.8715'
         y: '4.0'
-        z: '2448.1204'
+        z: '2448.1203'
         yaw: '-1.77166748046875'
         pitch: '0.0'
       type: PLAYER
@@ -1460,7 +1460,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1488,7 +1488,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1516,7 +1516,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1544,7 +1544,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1572,7 +1572,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1600,7 +1600,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1628,7 +1628,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1656,7 +1656,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1684,7 +1684,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1712,7 +1712,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1740,7 +1740,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1768,7 +1768,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1796,7 +1796,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1824,7 +1824,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1852,7 +1852,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1880,7 +1880,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1908,7 +1908,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1936,7 +1936,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1964,7 +1964,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -1983,7 +1983,7 @@ npc:
         world: test
         x: '-361.0518'
         y: '4.0'
-        z: '2455.1721'
+        z: '2455.172'
         yaw: '-1.16937255859375'
         pitch: '0.0'
       type: PLAYER
@@ -1992,7 +1992,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2020,7 +2020,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2048,7 +2048,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2076,7 +2076,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2104,7 +2104,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2132,7 +2132,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2151,7 +2151,7 @@ npc:
         world: test
         x: '-358.1003'
         y: '4.0'
-        z: '2456.9266'
+        z: '2456.9265'
         yaw: '-3.419921875'
         pitch: '0.0'
       type: PLAYER
@@ -2160,7 +2160,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2188,7 +2188,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2216,7 +2216,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2244,7 +2244,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2272,7 +2272,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2300,7 +2300,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2328,7 +2328,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2356,7 +2356,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2384,7 +2384,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2412,7 +2412,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2440,7 +2440,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2468,7 +2468,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2496,7 +2496,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2524,7 +2524,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2552,7 +2552,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2580,7 +2580,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2599,7 +2599,7 @@ npc:
         world: test
         x: '-349.875'
         y: '4.0'
-        z: '2457.3423'
+        z: '2457.3422'
         yaw: '-7.767333984375'
         pitch: '0.0'
       type: PLAYER
@@ -2608,7 +2608,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2636,7 +2636,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2655,7 +2655,7 @@ npc:
         world: test
         x: '-345.1437'
         y: '4.0'
-        z: '2454.5199'
+        z: '2454.5198'
         yaw: '-1.6160888671875'
         pitch: '0.0'
       type: PLAYER
@@ -2664,7 +2664,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2692,7 +2692,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2720,7 +2720,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2748,7 +2748,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2776,7 +2776,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2804,7 +2804,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2832,7 +2832,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2860,7 +2860,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2888,7 +2888,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2916,7 +2916,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2944,7 +2944,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -2972,7 +2972,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3000,7 +3000,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3028,7 +3028,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3047,7 +3047,7 @@ npc:
         world: test
         x: '-357.2429'
         y: '4.0'
-        z: '2464.8623'
+        z: '2464.8622'
         yaw: '-30.2664794921875'
         pitch: '0.0'
       type: PLAYER
@@ -3056,7 +3056,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3084,7 +3084,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3112,7 +3112,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3140,7 +3140,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3157,7 +3157,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-351.7568'
+        x: '-351.7567'
         y: '4.0'
         z: '2466.2851'
         yaw: '12.63397216796875'
@@ -3168,7 +3168,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3196,7 +3196,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3224,7 +3224,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3252,7 +3252,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3269,7 +3269,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-369.7491'
+        x: '-369.749'
         y: '4.0'
         z: '2519.8353'
         yaw: '88.23214721679688'
@@ -3280,7 +3280,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3308,7 +3308,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3336,7 +3336,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3364,7 +3364,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3392,7 +3392,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3420,7 +3420,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3448,7 +3448,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3476,7 +3476,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3504,7 +3504,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3532,7 +3532,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3560,7 +3560,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3588,7 +3588,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3616,7 +3616,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3644,7 +3644,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3672,7 +3672,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3700,7 +3700,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3728,7 +3728,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3756,7 +3756,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3784,7 +3784,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3803,7 +3803,7 @@ npc:
         world: test
         x: '-384.1374'
         y: '4.0'
-        z: '2627.5896'
+        z: '2627.5895'
         yaw: '15.482421875'
         pitch: '0.0'
       type: PLAYER
@@ -3812,7 +3812,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3840,7 +3840,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3868,7 +3868,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3896,7 +3896,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3924,7 +3924,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3952,7 +3952,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -3980,7 +3980,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4008,7 +4008,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4025,7 +4025,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-384.5419'
+        x: '-384.5418'
         y: '4.0'
         z: '2623.1435'
         yaw: '25.682464599609375'
@@ -4036,7 +4036,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4064,7 +4064,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4092,7 +4092,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4111,7 +4111,7 @@ npc:
         world: test
         x: '-385.0948'
         y: '4.0'
-        z: '2620.9601'
+        z: '2620.96'
         yaw: '29.5823974609375'
         pitch: '0.0'
       type: PLAYER
@@ -4120,7 +4120,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4148,7 +4148,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4176,7 +4176,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4204,7 +4204,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4232,7 +4232,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4260,7 +4260,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4279,7 +4279,7 @@ npc:
         world: test
         x: '-364.12'
         y: '9.0'
-        z: '2576.2445'
+        z: '2576.2444'
         yaw: '-169.05787658691406'
         pitch: '0.0'
       type: PLAYER
@@ -4288,7 +4288,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4316,7 +4316,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4344,7 +4344,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4372,7 +4372,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4400,7 +4400,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4428,7 +4428,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4456,7 +4456,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4484,7 +4484,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4512,7 +4512,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4540,7 +4540,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4557,7 +4557,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-374.6549'
+        x: '-374.6548'
         y: '4.0'
         z: '2574.2934'
         yaw: '-50.85765838623047'
@@ -4568,7 +4568,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4596,7 +4596,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4624,7 +4624,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4652,7 +4652,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4680,7 +4680,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4697,7 +4697,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-381.6361'
+        x: '-381.636'
         y: '4.0'
         z: '2569.1594'
         yaw: '-49.35765838623047'
@@ -4708,7 +4708,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4736,7 +4736,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4764,7 +4764,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4792,7 +4792,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4820,7 +4820,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4848,7 +4848,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4867,7 +4867,7 @@ npc:
         world: test
         x: '-388.8616'
         y: '4.0'
-        z: '2593.0923'
+        z: '2593.0922'
         yaw: '-135.90762329101562'
         pitch: '0.0'
       type: PLAYER
@@ -4876,7 +4876,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4904,7 +4904,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4932,7 +4932,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4960,7 +4960,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -4988,7 +4988,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5016,7 +5016,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5044,7 +5044,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5072,7 +5072,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5100,7 +5100,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5128,7 +5128,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5156,7 +5156,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5184,7 +5184,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5212,7 +5212,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5240,7 +5240,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5268,7 +5268,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5287,7 +5287,7 @@ npc:
         world: test
         x: '-400.9137'
         y: '4.0'
-        z: '2635.5471'
+        z: '2635.547'
         yaw: '2.842742919921875'
         pitch: '0.0'
       type: PLAYER
@@ -5296,7 +5296,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5324,7 +5324,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5352,7 +5352,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5380,7 +5380,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5408,7 +5408,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5425,7 +5425,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-404.2851'
+        x: '-404.285'
         y: '4.0'
         z: '2634.6131'
         yaw: '-48.907135009765625'
@@ -5436,7 +5436,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5464,7 +5464,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5492,7 +5492,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5520,7 +5520,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5548,7 +5548,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5576,7 +5576,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5604,7 +5604,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5632,7 +5632,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5649,7 +5649,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-404.6232'
+        x: '-404.6231'
         y: '4.0'
         z: '2636.7402'
         yaw: '-153.71514892578125'
@@ -5660,7 +5660,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5679,7 +5679,7 @@ npc:
         world: test
         x: '-400.4406'
         y: '4.0'
-        z: '2628.2663'
+        z: '2628.2662'
         yaw: '-153.71514892578125'
         pitch: '0.0'
       type: PLAYER
@@ -5688,7 +5688,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5716,7 +5716,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5744,7 +5744,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5772,7 +5772,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5800,7 +5800,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5817,7 +5817,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-395.2405'
+        x: '-395.2404'
         y: '4.0'
         z: '2620.4652'
         yaw: '37.042694091796875'
@@ -5828,7 +5828,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5845,7 +5845,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-394.5582'
+        x: '-394.5581'
         y: '4.0'
         z: '2619.4931'
         yaw: '36.742706298828125'
@@ -5856,7 +5856,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5884,7 +5884,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5912,7 +5912,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5940,7 +5940,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5959,7 +5959,7 @@ npc:
         world: test
         x: '-394.6'
         y: '4.0'
-        z: '2616.1793'
+        z: '2616.1792'
         yaw: '19.342681884765625'
         pitch: '0.0'
       type: PLAYER
@@ -5968,7 +5968,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -5996,7 +5996,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6015,7 +6015,7 @@ npc:
         world: test
         x: '-395.2475'
         y: '4.0'
-        z: '2614.3061'
+        z: '2614.306'
         yaw: '17.09259033203125'
         pitch: '0.0'
       type: PLAYER
@@ -6024,7 +6024,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6052,7 +6052,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6080,7 +6080,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6108,7 +6108,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6136,7 +6136,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6164,7 +6164,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6192,7 +6192,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6209,7 +6209,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-390.4529'
+        x: '-390.4528'
         y: '4.0'
         z: '2618.7977'
         yaw: '100.94293212890625'
@@ -6220,7 +6220,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6248,7 +6248,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6276,7 +6276,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6304,7 +6304,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6332,7 +6332,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6360,7 +6360,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6388,7 +6388,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6416,7 +6416,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6444,7 +6444,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6472,7 +6472,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6500,7 +6500,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6528,7 +6528,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6556,7 +6556,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6584,7 +6584,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6612,7 +6612,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6640,7 +6640,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6668,7 +6668,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6696,7 +6696,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6713,7 +6713,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-390.0342'
+        x: '-390.0341'
         y: '4.0'
         z: '2607.5383'
         yaw: '42.142974853515625'
@@ -6724,7 +6724,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6752,7 +6752,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6780,7 +6780,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6799,7 +6799,7 @@ npc:
         world: test
         x: '-388.6431'
         y: '4.0'
-        z: '2605.5163'
+        z: '2605.5162'
         yaw: '19.34295654296875'
         pitch: '0.0'
       type: PLAYER
@@ -6808,7 +6808,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6827,7 +6827,7 @@ npc:
         world: test
         x: '-388.4855'
         y: '4.0'
-        z: '2604.5788'
+        z: '2604.5787'
         yaw: '6.44293212890625'
         pitch: '0.0'
       type: PLAYER
@@ -6836,7 +6836,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6864,7 +6864,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6892,7 +6892,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6920,7 +6920,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6948,7 +6948,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -6976,7 +6976,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7004,7 +7004,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7032,7 +7032,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7060,7 +7060,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7088,7 +7088,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7116,7 +7116,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7144,7 +7144,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7172,7 +7172,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7200,7 +7200,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7228,7 +7228,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7256,7 +7256,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7284,7 +7284,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7312,7 +7312,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7340,7 +7340,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7368,7 +7368,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7396,7 +7396,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7424,7 +7424,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7452,7 +7452,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7480,7 +7480,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7508,7 +7508,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7527,7 +7527,7 @@ npc:
         world: test
         x: '-374.9735'
         y: '4.0'
-        z: '2588.7427'
+        z: '2588.7426'
         yaw: '65.24295043945312'
         pitch: '0.0'
       type: PLAYER
@@ -7536,7 +7536,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7564,7 +7564,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7592,7 +7592,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7620,7 +7620,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7648,7 +7648,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7676,7 +7676,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7704,7 +7704,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7732,7 +7732,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7760,7 +7760,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7779,7 +7779,7 @@ npc:
         world: test
         x: '-380.6886'
         y: '4.0'
-        z: '2586.0797'
+        z: '2586.0796'
         yaw: '-70.95687866210938'
         pitch: '0.0'
       type: PLAYER
@@ -7788,7 +7788,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7816,7 +7816,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7844,7 +7844,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7872,7 +7872,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7900,7 +7900,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7919,7 +7919,7 @@ npc:
         world: test
         x: '-386.4599'
         y: '4.0'
-        z: '2589.5289'
+        z: '2589.5288'
         yaw: '-144.86529541015625'
         pitch: '0.0'
       type: PLAYER
@@ -7928,7 +7928,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7956,7 +7956,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -7984,7 +7984,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8001,7 +8001,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-384.4803'
+        x: '-384.4802'
         y: '4.0'
         z: '2581.3224'
         yaw: '-26.4068603515625'
@@ -8012,7 +8012,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8035,7 +8035,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8063,7 +8063,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8091,7 +8091,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8119,7 +8119,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8147,7 +8147,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8175,7 +8175,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8203,7 +8203,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8231,7 +8231,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8259,7 +8259,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8287,7 +8287,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8306,7 +8306,7 @@ npc:
         world: test
         x: '-379.9739'
         y: '4.0'
-        z: '2572.8931'
+        z: '2572.893'
         yaw: '-159.2650146484375'
         pitch: '0.0'
       type: PLAYER
@@ -8315,7 +8315,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8343,7 +8343,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8371,7 +8371,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8399,7 +8399,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8416,7 +8416,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-372.5154'
+        x: '-372.5153'
         y: '4.0'
         z: '2569.2516'
         yaw: '-91.91485595703125'
@@ -8427,7 +8427,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8455,7 +8455,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8483,7 +8483,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8511,7 +8511,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8534,7 +8534,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8562,7 +8562,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8590,7 +8590,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8609,7 +8609,7 @@ npc:
         world: test
         x: '-367.5432'
         y: '4.0'
-        z: '2550.8106'
+        z: '2550.8105'
         yaw: '-2.214111328125'
         pitch: '0.0'
       type: PLAYER
@@ -8618,7 +8618,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8635,7 +8635,7 @@ npc:
       spawned: true
       location:
         world: test
-        x: '-364.8904'
+        x: '-364.8903'
         y: '4.0'
         z: '2552.8398'
         yaw: '-29.0640869140625'
@@ -8646,7 +8646,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8674,7 +8674,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8702,7 +8702,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8730,7 +8730,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8758,7 +8758,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8786,7 +8786,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8809,7 +8809,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8837,7 +8837,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8865,7 +8865,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8893,7 +8893,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8921,7 +8921,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8949,7 +8949,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -8968,7 +8968,7 @@ npc:
         world: test
         x: '-369.0382'
         y: '9.0'
-        z: '2574.9592'
+        z: '2574.9591'
         yaw: '-62.515380859375'
         pitch: '0.0'
       type: PLAYER
@@ -8977,7 +8977,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9005,7 +9005,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9033,7 +9033,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9047,7 +9047,7 @@ npc:
         world: test
         x: '-362.1283'
         y: '9.5'
-        z: '2572.2173'
+        z: '2572.2172'
         yaw: '19.23443603515625'
         pitch: '0.0'
       type: PLAYER
@@ -9056,7 +9056,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9084,7 +9084,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9112,7 +9112,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9135,7 +9135,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9163,7 +9163,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9191,7 +9191,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9219,7 +9219,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9248,7 +9248,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,speech,inventory,mounttrait,spawned,owner
+    traitnames: mounttrait,gravity,location,spawned,speech,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9277,7 +9277,7 @@ npc:
       owner:
         owner: TumbleGamer
         uuid: 554a961a-0908-428d-bf07-a1568d0d8547
-    traitnames: equipment,gravity,location,type,speech,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,speech,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9295,9 +9295,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-388.9983'
+        x: '-388.9982'
         y: '4.0'
-        z: '2580.0598'
+        z: '2580.0597'
         yaw: '-7.861328125'
         pitch: '0.0'
       type: PLAYER
@@ -9305,7 +9305,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9325,7 +9325,7 @@ npc:
         world: test
         x: '-406.9008'
         y: '4.0'
-        z: '2569.6861'
+        z: '2569.686'
         yaw: '-59.9111328125'
         pitch: '0.0'
       type: PLAYER
@@ -9333,7 +9333,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9361,7 +9361,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9381,7 +9381,7 @@ npc:
         world: test
         x: '-412.1145'
         y: '4.0'
-        z: '2571.9127'
+        z: '2571.9126'
         yaw: '-96.661376953125'
         pitch: '0.0'
       type: PLAYER
@@ -9389,7 +9389,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9402,7 +9402,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-406.7752'
+        x: '-406.7751'
         y: '4.0'
         z: '2571.947'
         yaw: '-89.161376953125'
@@ -9412,7 +9412,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9430,9 +9430,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-403.6287'
+        x: '-403.6286'
         y: '4.0'
-        z: '2574.2047'
+        z: '2574.2046'
         yaw: '169.289306640625'
         pitch: '0.0'
       type: PLAYER
@@ -9440,7 +9440,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9468,7 +9468,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9486,7 +9486,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-400.2519'
+        x: '-400.2518'
         y: '4.0'
         z: '2580.0423'
         yaw: '156.538818359375'
@@ -9496,7 +9496,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9524,7 +9524,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9544,7 +9544,7 @@ npc:
         world: test
         x: '-399.1032'
         y: '4.0'
-        z: '2574.6151'
+        z: '2574.615'
         yaw: '98.788330078125'
         pitch: '0.0'
       type: PLAYER
@@ -9552,7 +9552,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9572,7 +9572,7 @@ npc:
         world: test
         x: '-393.2536'
         y: '4.0'
-        z: '2583.9285'
+        z: '2583.9284'
         yaw: '-169.563232421875'
         pitch: '0.0'
       type: PLAYER
@@ -9580,7 +9580,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9598,7 +9598,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-391.1903'
+        x: '-391.1902'
         y: '4.0'
         z: '2581.3798'
         yaw: '78.836669921875'
@@ -9608,7 +9608,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9628,7 +9628,7 @@ npc:
         world: test
         x: '-393.8829'
         y: '4.0'
-        z: '2580.2897'
+        z: '2580.2896'
         yaw: '-174.964599609375'
         pitch: '0.0'
       type: PLAYER
@@ -9636,7 +9636,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9654,9 +9654,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-395.003'
+        x: '-395.0029'
         y: '4.0'
-        z: '2577.6476'
+        z: '2577.6475'
         yaw: '-172.414794921875'
         pitch: '0.0'
       type: PLAYER
@@ -9664,7 +9664,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9692,7 +9692,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9712,7 +9712,7 @@ npc:
         world: test
         x: '-392.5642'
         y: '4.0'
-        z: '2571.2781'
+        z: '2571.278'
         yaw: '77.335205078125'
         pitch: '0.0'
       type: PLAYER
@@ -9720,7 +9720,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9738,9 +9738,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-395.6672'
+        x: '-395.6671'
         y: '4.0'
-        z: '2572.4294'
+        z: '2572.4293'
         yaw: '-98.014404296875'
         pitch: '0.0'
       type: PLAYER
@@ -9748,7 +9748,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9776,7 +9776,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9794,7 +9794,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-391.2754'
+        x: '-391.2753'
         y: '4.0'
         z: '2569.6395'
         yaw: '143.78515625'
@@ -9804,7 +9804,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9832,7 +9832,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9850,9 +9850,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-397.0016'
+        x: '-397.0015'
         y: '4.0'
-        z: '2579.7893'
+        z: '2579.7892'
         yaw: '125.63525390625'
         pitch: '0.0'
       type: PLAYER
@@ -9860,7 +9860,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9888,7 +9888,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9916,7 +9916,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9934,7 +9934,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-395.4643'
+        x: '-395.4642'
         y: '4.0'
         z: '2573.2035'
         yaw: '-108.0654296875'
@@ -9944,7 +9944,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9962,9 +9962,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-389.5517'
+        x: '-389.5516'
         y: '4.0'
-        z: '2573.3545'
+        z: '2573.3544'
         yaw: '111.53466796875'
         pitch: '0.0'
       type: PLAYER
@@ -9972,7 +9972,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -9992,7 +9992,7 @@ npc:
         world: test
         x: '-385.7932'
         y: '4.0'
-        z: '2568.6002'
+        z: '2568.6001'
         yaw: '129.685302734375'
         pitch: '0.0'
       type: PLAYER
@@ -10000,7 +10000,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10013,7 +10013,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-389.3409'
+        x: '-389.3408'
         y: '4.0'
         z: '2565.6567'
         yaw: '129.685302734375'
@@ -10023,7 +10023,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10041,7 +10041,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-393.965'
+        x: '-393.9649'
         y: '4.0'
         z: '2567.6471'
         yaw: '-139.564697265625'
@@ -10051,7 +10051,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10079,7 +10079,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10097,9 +10097,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-396.1946'
+        x: '-396.1945'
         y: '4.0'
-        z: '2562.7459'
+        z: '2562.7458'
         yaw: '-87.8134765625'
         pitch: '0.0'
       type: PLAYER
@@ -10107,7 +10107,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10127,7 +10127,7 @@ npc:
         world: test
         x: '-391.074'
         y: '4.0'
-        z: '2567.0739'
+        z: '2567.0738'
         yaw: '176.786865234375'
         pitch: '0.0'
       type: PLAYER
@@ -10135,7 +10135,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10158,7 +10158,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10186,7 +10186,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10201,7 +10201,7 @@ npc:
         world: test
         x: '-402.7907'
         y: '4.0'
-        z: '2567.6254'
+        z: '2567.6253'
         yaw: '111.2366943359375'
         pitch: '0.0'
       type: PLAYER
@@ -10209,7 +10209,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10227,7 +10227,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-413.1905'
+        x: '-413.1904'
         y: '4.0'
         z: '2564.7573'
         yaw: '-171.36328125'
@@ -10237,7 +10237,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10257,7 +10257,7 @@ npc:
         world: test
         x: '-412.5235'
         y: '4.0'
-        z: '2560.3268'
+        z: '2560.3267'
         yaw: '-171.36328125'
         pitch: '0.0'
       type: PLAYER
@@ -10265,7 +10265,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10283,9 +10283,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-412.5847'
+        x: '-412.5846'
         y: '4.0'
-        z: '2554.741'
+        z: '2554.7409'
         yaw: '-62.913330078125'
         pitch: '0.0'
       type: PLAYER
@@ -10293,7 +10293,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10306,7 +10306,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-407.3005'
+        x: '-407.3004'
         y: '4.0'
         z: '2554.2606'
         yaw: '147.0865478515625'
@@ -10316,7 +10316,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10339,7 +10339,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10352,9 +10352,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-407.6536'
+        x: '-407.6535'
         y: '4.0'
-        z: '2549.7718'
+        z: '2549.7717'
         yaw: '-101.61328125'
         pitch: '0.0'
       type: PLAYER
@@ -10362,7 +10362,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10380,7 +10380,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-400.7252'
+        x: '-400.7251'
         y: '4.0'
         z: '2549.4456'
         yaw: '-101.61328125'
@@ -10390,7 +10390,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10403,9 +10403,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-398.2401'
+        x: '-398.24'
         y: '4.0'
-        z: '2548.9424'
+        z: '2548.9423'
         yaw: '-101.61328125'
         pitch: '0.0'
       type: PLAYER
@@ -10413,7 +10413,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10431,7 +10431,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-391.4135'
+        x: '-391.4134'
         y: '4.0'
         z: '2549.2858'
         yaw: '-101.61328125'
@@ -10441,7 +10441,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10456,7 +10456,7 @@ npc:
         world: test
         x: '-400.0328'
         y: '4.0'
-        z: '2567.7391'
+        z: '2567.739'
         yaw: '-135.813232421875'
         pitch: '0.0'
       type: PLAYER
@@ -10464,7 +10464,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10492,7 +10492,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10515,7 +10515,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10533,9 +10533,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-389.263'
+        x: '-389.2629'
         y: '4.0'
-        z: '2554.7801'
+        z: '2554.78'
         yaw: '-135.813232421875'
         pitch: '0.0'
       type: PLAYER
@@ -10543,7 +10543,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10561,9 +10561,9 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-402.3386'
+        x: '-402.3385'
         y: '4.0'
-        z: '2563.7733'
+        z: '2563.7732'
         yaw: '-130.7139892578125'
         pitch: '0.0'
       type: PLAYER
@@ -10571,7 +10571,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10584,7 +10584,7 @@ npc:
         enabled: false
       location:
         world: test
-        x: '-398.938'
+        x: '-398.9379'
         y: '4.0'
         z: '2561.9774'
         yaw: '-130.7139892578125'
@@ -10594,7 +10594,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10609,7 +10609,7 @@ npc:
         world: test
         x: '-395.6057'
         y: '4.0'
-        z: '2559.1096'
+        z: '2559.1095'
         yaw: '-130.7139892578125'
         pitch: '0.0'
       type: PLAYER
@@ -10617,7 +10617,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10640,7 +10640,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10663,7 +10663,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10678,7 +10678,7 @@ npc:
         world: test
         x: '-384.4451'
         y: '4.0'
-        z: '2552.3673'
+        z: '2552.3672'
         yaw: '-130.7139892578125'
         pitch: '0.0'
       type: PLAYER
@@ -10686,7 +10686,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10706,7 +10706,7 @@ npc:
         world: test
         x: '-380.3971'
         y: '4.0'
-        z: '2557.7882'
+        z: '2557.7881'
         yaw: '-169.4136962890625'
         pitch: '0.0'
       type: PLAYER
@@ -10714,7 +10714,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10742,7 +10742,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10765,7 +10765,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10793,7 +10793,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10813,7 +10813,7 @@ npc:
         world: test
         x: '-387.5824'
         y: '4.0'
-        z: '2564.08'
+        z: '2564.0799'
         yaw: '28.5863037109375'
         pitch: '0.0'
       type: PLAYER
@@ -10821,7 +10821,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -10841,7 +10841,7 @@ npc:
         world: test
         x: '-387.1499'
         y: '4.0'
-        z: '2568.8738'
+        z: '2568.8737'
         yaw: '28.5863037109375'
         pitch: '0.0'
       type: PLAYER
@@ -10849,7 +10849,7 @@ npc:
       owner:
         owner: DrBatmanWho
         uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,gravity,location,type,inventory,mounttrait,owner,spawned
+    traitnames: mounttrait,gravity,location,spawned,equipment,type,owner,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
