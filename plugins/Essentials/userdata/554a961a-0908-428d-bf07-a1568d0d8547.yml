@@ -13,7 +13,7 @@ logoutlocation:
   z: 2525.1530115050305
   yaw: -82.865845
   pitch: 30.450018
-afk: false
+afk: true
 lastlocation:
   world: test
   x: -468.22922185733296
