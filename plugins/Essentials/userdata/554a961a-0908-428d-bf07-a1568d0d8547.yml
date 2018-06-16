@@ -32,4 +32,6 @@ powertools:
   - minecraft:kill @e[r=3,type=!Player]
   '383':
   - npc create Steve
+  '97':
+  - npc select
 godmode: false
