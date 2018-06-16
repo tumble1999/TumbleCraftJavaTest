@@ -28,10 +28,6 @@ powertools:
   - minecraft:tp @e[type=villager]
   '16':
   - setblock ~ ~ ~ minecraft:end_gateway
-  '166':
-  - npc remove
   '383':
   - npc create Steve
-  '97':
-  - npc select
 godmode: false
