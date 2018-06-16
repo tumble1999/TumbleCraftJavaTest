@@ -29,7 +29,7 @@ powertools:
   '16':
   - setblock ~ ~ ~ minecraft:end_gateway
   '166':
-  - minecraft:kill @e[r=3,type=!Player]
+  - npc remove
   '383':
   - npc create Steve
   '97':
