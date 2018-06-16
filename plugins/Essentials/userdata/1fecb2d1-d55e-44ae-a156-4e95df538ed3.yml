@@ -1,4 +1,12 @@
 lastAccountName: Kyeee
 timestamps:
   login: 1529154227842
+  logout: 1529154361893
 ipAddress: 82.1.227.31
+logoutlocation:
+  world: test
+  x: -521.1113625849251
+  y: 4.0
+  z: 2487.712862927108
+  yaw: 118.65
+  pitch: 26.549986
