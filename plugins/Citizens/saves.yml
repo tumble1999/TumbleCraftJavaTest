@@ -9338,34 +9338,6 @@ npc:
       speedmodifier: '1.0'
       avoidwater: false
       usedefaultstuckaction: true
-  '398':
-    metadata:
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjg5MDg4NjE4ODAsInByb2ZpbGVJZCI6ImVkN2E5NzQ3MDQxZDQ5Yjc5ZmVmMjdhOWQ2NGI5ZDcxIiwicHJvZmlsZU5hbWUiOiJTdGVwaGVuU3RyYW5nZSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6e319
-      cached-skin-uuid-name: stephenstrange
-      cached-skin-uuid: ed7a9747-041d-49b7-9fef-27a9d64b9d71
-      player-skin-signature: k+lTz0qoopJbsG+dsdEigKx6KPu+EeCug/EbINwmZtkWiKEjPclL53GbNvhd9rur9ASoXzTio38eh32NIdN+idB1jmj2y7SNDuaoBgUNVvbq/Enf5kBH8jmDjtsD+T2D2HbdFiMSlRA1Y3DCO50hqbOif4K+UV5jvjR1KtRPCglMZn2u6cHfzHq5ZQfzTWCbCZ0iaJ6og/TOejqaJiwPbrlXGhay7f6CCIWKR4P82vuayxhkg92Bq2djXSzlN1Lcl/4TrW5UDpfD00lvkXRGiGh/ZD6lkAuBz0xr2xfpO4L2AEgLEc3p7qnu6ZLXvU7cI+fHV5Eo2gdZt8Ukzvlz/5TcKtRSm76wwtleo8DUvoHZ/MK+UltTrTV5swOMqXG9+JzuWXmsHyZDiJzqjPeYmb0ahKexT7olh69pOVeZCa3DMEagi7quw8MOGnQqHLKC22i2rq2THqBasp66mie2nqWgAHS2JtTk9/YbtDXIlLAywOMyRigFbWCkR6ibv9WXA/CvMjylkBinZcZtAke//DNCXtqXi3MrFVFu2BGspcLmPN2NglCV1F1Mn376bj7F3ZdgcZU1RYYbhExw8oZHcl0GEliSTPr7hu3lOv3cqdFVAqW5XsU7DYlOxrx6ZJG1H7IEn2tmavlzoCMMbkGVdTcW926AUz/wwP8MU2F7aM4=
-    name: StephenStrange
-    uuid: edff170e-f3e1-4c12-9e64-91bf3d46e1b8
-    traits:
-      gravity:
-        enabled: false
-      location:
-        world: test
-        x: '-407.6802'
-        y: '4.0'
-        z: '2568.9798'
-        yaw: '27.388671875'
-        pitch: '0.0'
-      type: PLAYER
-      spawned: true
-      owner:
-        owner: DrBatmanWho
-        uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,mounttrait,spawned,gravity,type,location,owner,inventory
-    navigator:
-      speedmodifier: '1.0'
-      avoidwater: false
-      usedefaultstuckaction: true
   '397':
     metadata:
       player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjg5MDg4NDUzMzYsInByb2ZpbGVJZCI6ImMzMmIzOThiN2I2MzQ0Yjg5MzE1ZWE5Y2I2Y2Q4ZDI5IiwicHJvZmlsZU5hbWUiOiJTY290dExhbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjY2E4ZTFhMmE0MDc5MDMzOTFjODRhNjUzNzE3OWVmOTI2YjQzNWZjZjgyODE0ZjllNmQ3MDg5YTdkYmYzZWUifX19
@@ -9383,29 +9355,6 @@ npc:
         y: '4.0'
         z: '2571.9126'
         yaw: '-96.661376953125'
-        pitch: '0.0'
-      type: PLAYER
-      spawned: true
-      owner:
-        owner: DrBatmanWho
-        uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,mounttrait,spawned,gravity,type,location,owner,inventory
-    navigator:
-      speedmodifier: '1.0'
-      avoidwater: false
-      usedefaultstuckaction: true
-  '396':
-    name: ScottLanf
-    uuid: 0b575420-f519-46d7-b69f-ad4af095b483
-    traits:
-      gravity:
-        enabled: false
-      location:
-        world: test
-        x: '-406.7751'
-        y: '4.0'
-        z: '2571.947'
-        yaw: '-89.161376953125'
         pitch: '0.0'
       type: PLAYER
       spawned: true
@@ -10214,113 +10163,6 @@ npc:
       speedmodifier: '1.0'
       avoidwater: false
       usedefaultstuckaction: true
-  '366':
-    metadata:
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjg5MDgzOTg3OTcsInByb2ZpbGVJZCI6IjRmNzZkMzY3OWEwMTQ5MWViMTZiYzU1MjQ4OTEyOTA0IiwicHJvZmlsZU5hbWUiOiJJdGgiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnt9fQ==
-      cached-skin-uuid-name: ith
-      cached-skin-uuid: 4f76d367-9a01-491e-b16b-c55248912904
-      player-skin-signature: CjOMItQ1fw6XACqrYVCoVJLiYa+cIbcZTXbs+wD/fPYp+1KuPe1Uuyqk0wL3boPL3XOopC8QoWT0KlvO442r3NxAGD5Ko8+lL0tE4k+WzeHp9Sq6YZXFbdPl3dNeX5WgQYIMljLgsz4fLOHzPw7Jk2gJ0pZ2xCAWW7Vb1C6xf1hv86l647B0xFvpSjG2XwUAwyUlqPZiHZS94n4FQSdFQkuCTISt5NhXCMBOqDnqeqRXZ7x+aXh3WpdEB/vxhUYC7q3kX+1A0EbtOEKB73SX98kIikYogJGBqI6H0uAmhXLHDa7iS2vjgwpEPjqMto8omEizNi8OF1ApQtcWzAYvPztLW4S8GyKm0SnNAX5KFRbJ6UvmPOybcWEWW5ICC3pTjnjaVt3JcTVG0y6wbieFVMA6oOnKRRPOmJwrD7utEavXoZFZsoVyRJjXI64dQBcU0T1uUOiI4nP3YGUjL8S2Ru3pkTMwjGDZ/ULnzKRoX6iFkLrKNe19GWzdkMzhHnK8aT83wahZ/wO3vF8E+80tOGIygQRf6tqVumjm4e7CIub7GfCFR4BZmSEtNMuGfpjl2R3Y/m/u3VqBason8yoxhyRV5ijlaS/4nN3SNPg1KPrFHrSHGOvv56Iyd6yAVD0eKoT/Oou7zjG4dV8fh421HFw1oCyS2qXc1K2EQgWJRrI=
-    name: 'mobtype: blacksmith'
-    uuid: 3218a612-41d8-4959-8ac1-7f1f72ec06fa
-    traits:
-      gravity:
-        enabled: false
-      location:
-        world: test
-        x: '-413.1904'
-        y: '4.0'
-        z: '2564.7573'
-        yaw: '-171.36328125'
-        pitch: '0.0'
-      type: PLAYER
-      spawned: true
-      owner:
-        owner: DrBatmanWho
-        uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,mounttrait,spawned,gravity,type,location,owner,inventory
-    navigator:
-      speedmodifier: '1.0'
-      avoidwater: false
-      usedefaultstuckaction: true
-  '365':
-    metadata:
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjg5MDgzMDA1NjUsInByb2ZpbGVJZCI6IjY5OGNiYjliMzU2NjRlNjNhY2ZhYWIxZDdlZDhjMWFjIiwicHJvZmlsZU5hbWUiOiJlciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzU0ODhjZGZhOTZjZDFiYmI0M2QxYjNhNDk4ZGVjNzUzZTg4Y2UzMmViZTNiNzk0YjZjYTg0MGI5NGY3ODZiNiJ9fX0=
-      cached-skin-uuid-name: er
-      cached-skin-uuid: 698cbb9b-3566-4e63-acfa-ab1d7ed8c1ac
-      player-skin-signature: VYjHHdSizYM5FGmd7Cdof87h0YFNLM1/r6U8WMeb+/zuDICEekMmwQ/CrrRWgtVubhnrQlR/TBItE4ROZSSqCd2oqEMYmqtBBH38I1pidoHH7LXWjLnb9S6KsVEPJiuDU5bHQqEJjNj1cuPoBqtqdGqmzSNtlKh1msPiC48yF9mcQx//aOR1mG3SRxeAu2oghBoQe9bpAxAs8MQyBT04RLY5WxwR0ANZlzZBXNwLS9tjLEL61UNbgtomDIHI/LMOe+tWC6FNpUPmlSg1XO/sUehMjCBjCwDwZLDV02wmR5smZSTND46Q8+skjqo8uncbcxnPsl3mZvE+92DBvoGF/adn7e5F7Lqzje+PKQXUBDkloFlwL7zP3vH2lpadKUSB0/W1AbtfXldwtMZtTdP4ZMQrRK8rYGAJvEW+iU+pZnmWHl8EZjWRVxLtrIutjHMdpSDcXZyKAP7jZRdoUlGnU4B2yRyqEhMMO+u26U83E2NoEHr9vGB4kOt2K2KgDxQ7Af6vkUZPoob2L2fmVDz4IsAFb8BEPB0xY1y4a/q8aeSssn7U+DKp1x6wJtnW3FWt2Q/TbkY38oAiFrVNjSMMP7kenLHBrn/bY68j7/39fgX7GPlK1NTtCPX2TUyeSqUmy0xypKD4Gt6PDhVmAZ+uawFgWI4It8Acs4k8bZMvasc=
-    name: blacksmithvillager
-    uuid: c4909e48-d7ef-424e-8b6a-ec17efc8fb26
-    traits:
-      gravity:
-        enabled: false
-      location:
-        world: test
-        x: '-412.5235'
-        y: '4.0'
-        z: '2560.3267'
-        yaw: '-171.36328125'
-        pitch: '0.0'
-      type: PLAYER
-      spawned: true
-      owner:
-        owner: DrBatmanWho
-        uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,mounttrait,spawned,gravity,type,location,owner,inventory
-    navigator:
-      speedmodifier: '1.0'
-      avoidwater: false
-      usedefaultstuckaction: true
-  '364':
-    metadata:
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjg5MDgzNzE3NzAsInByb2ZpbGVJZCI6IjQ1M2NjZTUyODliMjQzNmJhMTllMDU2N2Q0YWU5NmZmIiwicHJvZmlsZU5hbWUiOiJCbGFja3NtaXRoIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYmUyNmNhMGFjZTRjNGFmMzRjNWRmNmZlNTEzNTUwZmU5NWU4MDU0MDBjMzIxNDQyZGMyMWUwZmY2ZjhhMDM4In19fQ==
-      cached-skin-uuid-name: blacksmith
-      cached-skin-uuid: 453cce52-89b2-436b-a19e-0567d4ae96ff
-      player-skin-signature: xGfnQFJ7Ok8YtmKs+4cX7LrzRGoOeC3KR78rldYbhtKj1nOjxLkC8xdpRlcwp/0DG8pmzmNh4Uv9q7d1/llympqE/fE4xow63McswR0RxZmG8o2LS1CP2yf7QpUdmegLA97WDBCX14ebNa2AaMH1QHCQdJAIzNqbMa3MUwVAEq2vVw1YgBWT+25Nojzl1GyVbYXgbFdHms4Dho4FYhVA/Npdd78ndT2toRXpjYkj8zIKjRzSKHT/06mh4XFsVjr5t2rhl97KhE6Sv0Kq5L/fzV5epdF7+Ql073mHmT7yyJ8eZJsDuIRh8Dgf6P5Ztjm2u1xb2FxXeVwAnDJg3RnxVDjFn68NNKOgkuST8j2+WICSXlQ289GyGeh92VinEsECcZbQy1YdErFZZoB8cwJ1Yz3PcFTlC8m4fhuY67vhTtmeEyq8v23dEHxA3QKrRw5nu/8I13vmRncHEO9epIqGSeSqDm0ZlUgV7zK9tp/Dwexxtfdbuyz9XkFYSwozKBhvlzuwx4Z/PJx+6wb8RPMnsFTO9Dfk94cq4OZK7tmrYPZHDveyUFwd6rwgJB56zRcUelkHYMmAyhE+FaBFhFc5raX1UwJWQ3frB2zgSUYl680GNs9O+rUwo/KXoOL8Z04my7BJypXVMKi3RgBdMxly+JqvaPF6A2pbThYLXjV8UMc=
-    name: blacksmith
-    uuid: 779e4d2f-c3ca-4ad1-ac64-82d1544f2efd
-    traits:
-      gravity:
-        enabled: false
-      location:
-        world: test
-        x: '-412.5846'
-        y: '4.0'
-        z: '2554.7408'
-        yaw: '-62.913330078125'
-        pitch: '0.0'
-      type: PLAYER
-      spawned: true
-      owner:
-        owner: DrBatmanWho
-        uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,mounttrait,spawned,gravity,type,location,owner,inventory
-    navigator:
-      speedmodifier: '1.0'
-      avoidwater: false
-      usedefaultstuckaction: true
-  '363':
-    name: villager npc type variant
-    uuid: 08e0b29d-d537-4674-a16a-7486c667d911
-    traits:
-      gravity:
-        enabled: false
-      location:
-        world: test
-        x: '-407.3004'
-        y: '4.0'
-        z: '2554.2606'
-        yaw: '147.0865478515625'
-        pitch: '0.0'
-      type: PLAYER
-      spawned: true
-      owner:
-        owner: DrBatmanWho
-        uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,mounttrait,spawned,gravity,type,location,owner,inventory
-    navigator:
-      speedmodifier: '1.0'
-      avoidwater: false
-      usedefaultstuckaction: true
   '362':
     name: Tumble please help me how do I make a normal v
     uuid: 6d9b7cba-74b2-44c5-96ea-a9e699e7530e
@@ -10332,57 +10174,6 @@ npc:
         x: '-410.5396'
         y: '4.0'
         z: '2549.2953'
-        yaw: '-101.61328125'
-        pitch: '0.0'
-      type: PLAYER
-      spawned: true
-      owner:
-        owner: DrBatmanWho
-        uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,mounttrait,spawned,gravity,type,location,owner,inventory
-    navigator:
-      speedmodifier: '1.0'
-      avoidwater: false
-      usedefaultstuckaction: true
-  '361':
-    name: mobtype of village
-    uuid: 21d98556-5df2-4f41-8017-0675c46f58f1
-    traits:
-      gravity:
-        enabled: false
-      location:
-        world: test
-        x: '-407.6535'
-        y: '4.0'
-        z: '2549.7716'
-        yaw: '-101.61328125'
-        pitch: '0.0'
-      type: PLAYER
-      spawned: true
-      owner:
-        owner: DrBatmanWho
-        uuid: 019c39a2-24ce-4563-b04b-c094c9bee042
-    traitnames: equipment,mounttrait,spawned,gravity,type,location,owner,inventory
-    navigator:
-      speedmodifier: '1.0'
-      avoidwater: false
-      usedefaultstuckaction: true
-  '360':
-    metadata:
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjg5MDgzMDA1NjUsInByb2ZpbGVJZCI6IjY5OGNiYjliMzU2NjRlNjNhY2ZhYWIxZDdlZDhjMWFjIiwicHJvZmlsZU5hbWUiOiJlciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzU0ODhjZGZhOTZjZDFiYmI0M2QxYjNhNDk4ZGVjNzUzZTg4Y2UzMmViZTNiNzk0YjZjYTg0MGI5NGY3ODZiNiJ9fX0=
-      cached-skin-uuid-name: er
-      cached-skin-uuid: 698cbb9b-3566-4e63-acfa-ab1d7ed8c1ac
-      player-skin-signature: VYjHHdSizYM5FGmd7Cdof87h0YFNLM1/r6U8WMeb+/zuDICEekMmwQ/CrrRWgtVubhnrQlR/TBItE4ROZSSqCd2oqEMYmqtBBH38I1pidoHH7LXWjLnb9S6KsVEPJiuDU5bHQqEJjNj1cuPoBqtqdGqmzSNtlKh1msPiC48yF9mcQx//aOR1mG3SRxeAu2oghBoQe9bpAxAs8MQyBT04RLY5WxwR0ANZlzZBXNwLS9tjLEL61UNbgtomDIHI/LMOe+tWC6FNpUPmlSg1XO/sUehMjCBjCwDwZLDV02wmR5smZSTND46Q8+skjqo8uncbcxnPsl3mZvE+92DBvoGF/adn7e5F7Lqzje+PKQXUBDkloFlwL7zP3vH2lpadKUSB0/W1AbtfXldwtMZtTdP4ZMQrRK8rYGAJvEW+iU+pZnmWHl8EZjWRVxLtrIutjHMdpSDcXZyKAP7jZRdoUlGnU4B2yRyqEhMMO+u26U83E2NoEHr9vGB4kOt2K2KgDxQ7Af6vkUZPoob2L2fmVDz4IsAFb8BEPB0xY1y4a/q8aeSssn7U+DKp1x6wJtnW3FWt2Q/TbkY38oAiFrVNjSMMP7kenLHBrn/bY68j7/39fgX7GPlK1NTtCPX2TUyeSqUmy0xypKD4Gt6PDhVmAZ+uawFgWI4It8Acs4k8bZMvasc=
-    name: 'mob type: villager'
-    uuid: 503d9998-4a21-4dfc-97ba-1d8b9fe0bd01
-    traits:
-      gravity:
-        enabled: false
-      location:
-        world: test
-        x: '-400.725'
-        y: '4.0'
-        z: '2549.4456'
         yaw: '-101.61328125'
         pitch: '0.0'
       type: PLAYER
