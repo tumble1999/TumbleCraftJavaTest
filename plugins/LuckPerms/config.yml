@@ -327,6 +327,7 @@ log-notify: true
 meta-formatting:
   prefix:
     format:
+      - "highest_on_track_special"
       - "highest_on_track_creativestaff"
       - "highest_on_track_staff"
       - "highest_on_track_cult"
@@ -335,7 +336,7 @@ meta-formatting:
     end-spacer: ""
   suffix:
     format:
-      - "highest"
+      - "highest_on_track_suffix"
     start-spacer: ""
     middle-spacer: " "
     end-spacer: ""
