@@ -338,7 +338,7 @@ meta-formatting:
     format:
       - "highest_on_track_suffix"
     start-spacer: ""
-    middle-spacer: " "
+    middle-spacer: ""
     end-spacer: ""
 
 
