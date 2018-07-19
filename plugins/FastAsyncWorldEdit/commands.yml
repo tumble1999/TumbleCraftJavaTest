@@ -217,6 +217,31 @@ MaskCommands:
     - '#biome'
     usage: <biome>
     desc: in a specific biome
+  (:
+    help: |-
+      Restrict to near specific terrain slope rate of change
+      The -o flag will only overlay
+      Example: ([0d][45d][5]
+      Explanation: Restrict near where the angle changes between 0-45 degrees within 5 blocks
+      Note: Use negatives for decreasing slope
+    aliases:
+    - (
+    - )
+    - '#roc'
+    usage: <min> <max> [distance=4]
+    desc: Restrict to near specific terrain slope rate of change
+  ^:
+    help: |-
+      Restrict to near specific terrain extrema
+      The -o flag will only overlay
+      Example: ([0d][45d][5]
+      Explanation: Restrict to near 45 degrees of local maxima
+      Note: Use negatives for local minima
+    aliases:
+    - ^
+    - '#extrema'
+    usage: <min> <max> [distance=1]
+    desc: Restrict to near specific terrain extrema
 PatternCommands:
   '#offset':
     help: ''
@@ -801,6 +826,14 @@ OptionsCommands:
     - /fast
     usage: '[on|off]'
     desc: Toggles FAWE undo
+  /gtexture:
+    help: The global destination mask applies to all edits you do and masks based
+      on the destination blocks (i.e. the blocks in the world).
+    aliases:
+    - /gtexture
+    - gtexture
+    usage: '[mask|#clipboard|complexity] [randomization=true]'
+    desc: Set the global mask
 GenerationCommands:
   /image:
     help: ''
@@ -2269,6 +2302,16 @@ BrushCommands:
     - scommand
     usage: <scatter-radius> <points> <cmd-radius=1> <cmd1;cmd2...>
     desc: Run commands at random points on a surface
+  image:
+    help: |-
+      Use a height map to paint any surface.
+      The -a flag will use image alpha
+      The -f blends the image with the existing terrain
+    aliases:
+    - image
+    - color
+    usage: <radius> <image> [yscale=1]
+    desc: Use a height map to paint a surface
 SuperPickaxeCommands:
   recur:
     help: ''

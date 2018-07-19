@@ -60,6 +60,7 @@ npc:
     rotation-update-degrees: 90.0
     use-latest-by-default: false
     view-distance: 100.0
+    use-latest: true
   packets:
     update-delay: 30
   selection:
