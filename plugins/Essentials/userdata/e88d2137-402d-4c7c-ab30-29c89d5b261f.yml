@@ -1,4 +1,12 @@
 lastAccountName: wolfyblox589
 timestamps:
   login: 1532451158440
+  logout: 1532451472822
 ipAddress: 100.40.106.195
+logoutlocation:
+  world: test
+  x: -462.5637772684244
+  y: 4.0
+  z: 2501.63143728712
+  yaw: -179.17334
+  pitch: 44.152924
