@@ -610,6 +610,12 @@ AnvilCommands:
     - paste
     usage: ''
     desc: Paste chunks from your anvil clipboard
+  deletebiomechunks:
+    help: ''
+    aliases:
+    - deletebiomechunks
+    usage: ''
+    desc: Delete chunks matching a specific biome
 BiomeCommands:
   /setbiome:
     help: |-
