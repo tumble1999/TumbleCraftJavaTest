@@ -3,21 +3,21 @@ GET
 0
 HTTP/1.1 200 OK
 15
-Date: Thu, 23 Aug 2018 13:09:18 GMT
+Date: Thu, 23 Aug 2018 13:19:20 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
-Set-Cookie: __cfduid=dfbaf0fa406a91c500d13866930d814dc1535029758; expires=Fri, 23-Aug-19 13:09:18 GMT; path=/; domain=.plugin.buycraft.net; HttpOnly
+Set-Cookie: __cfduid=daa00875e579aa42bbef3afad58a7d5ee1535030360; expires=Fri, 23-Aug-19 13:19:20 GMT; path=/; domain=.plugin.buycraft.net; HttpOnly
 Cache-Control: private, must-revalidate
 ETag: W/"1f17389f904d61aa87957a15a53cca391266382e"
 X-BC-Node: i-0d7d76429cb5db321 d-6ZAFXS50V
 Strict-Transport-Security: max-age=31536000;
 Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 Server: cloudflare
-CF-RAY: 44edd0141d10bfe0-MAN
+CF-RAY: 44eddec619fd367d-MAN
 Content-Encoding: gzip
-OkHttp-Sent-Millis: 1535029757363
-OkHttp-Received-Millis: 1535029758354
+OkHttp-Sent-Millis: 1535030359236
+OkHttp-Received-Millis: 1535030360049
 
 TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
 2
