@@ -17,9 +17,10 @@ settings:
   filter-creative-items: true
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
+  bungeecord: false
+  late-bind: false
   player-shuffle: 0
-  item-dirty-ticks: 20
-  int-cache-limit: 1024
+  sample-count: 12
   timeout-time: 60
   restart-on-crash: true
   restart-script: START.bat
@@ -30,10 +31,9 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  sample-count: 12
+  item-dirty-ticks: 20
   user-cache-size: 1000
-  bungeecord: false
-  late-bind: false
+  int-cache-limit: 1024
   netty-threads: 4
 messages:
   whitelist: You are not whitelisted on this server!
