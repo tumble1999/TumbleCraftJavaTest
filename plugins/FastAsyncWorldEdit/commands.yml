@@ -1787,6 +1787,12 @@ UtilityCommands:
     - /confirm
     usage: ''
     desc: Confirm a command
+  /heightmapinterface:
+    help: ''
+    aliases:
+    - /heightmapinterface
+    usage: ''
+    desc: 'Generate the heightmap interface: https://github.com/boy0001/HeightMap'
 WorldEditCommands:
   worldedit:
     help: ''
