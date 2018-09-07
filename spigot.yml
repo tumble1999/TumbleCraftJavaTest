@@ -14,10 +14,20 @@ config-version: 11
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  moved-too-quickly-multiplier: 10.0
   filter-creative-items: true
+  moved-too-quickly-multiplier: 10.0
   moved-wrongly-threshold: 0.0625
+  int-cache-limit: 1024
+  late-bind: false
+  player-shuffle: 0
+  bungeecord: false
+  item-dirty-ticks: 20
+  user-cache-size: 1000
+  sample-count: 12
   netty-threads: 4
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: START.bat
   attribute:
     maxHealth:
       max: 2048.0
@@ -25,23 +35,6 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: START.bat
-  bungeecord: false
-  int-cache-limit: 1024
-  item-dirty-ticks: 20
-  player-shuffle: 0
-  late-bind: false
-  user-cache-size: 1000
-  sample-count: 12
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 commands:
   tab-complete: 0
   silent-commandblock-console: true
@@ -53,6 +46,13 @@ commands:
   - testforblock
   - tellraw
   log: structure
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 advancements:
   disable-saving: false
   disabled:
