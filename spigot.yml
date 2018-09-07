@@ -14,20 +14,15 @@ config-version: 11
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  moved-too-quickly-multiplier: 10.0
-  moved-wrongly-threshold: 0.0625
   filter-creative-items: true
-  int-cache-limit: 1024
-  sample-count: 12
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
   player-shuffle: 0
+  item-dirty-ticks: 20
+  int-cache-limit: 1024
   timeout-time: 60
   restart-on-crash: true
   restart-script: START.bat
-  user-cache-size: 1000
-  netty-threads: 4
-  late-bind: false
-  item-dirty-ticks: 20
-  bungeecord: false
   attribute:
     maxHealth:
       max: 2048.0
@@ -35,6 +30,11 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  sample-count: 12
+  user-cache-size: 1000
+  bungeecord: false
+  late-bind: false
+  netty-threads: 4
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -46,13 +46,13 @@ commands:
   tab-complete: 0
   silent-commandblock-console: true
   log: structure
+  spam-exclusions:
+  - /skill
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
-  spam-exclusions:
-  - /skill
 advancements:
   disable-saving: false
   disabled:
