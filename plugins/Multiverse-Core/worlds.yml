@@ -47,14 +47,14 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  resourcepack:
+  test_end:
     ==: MVWorld
     hidden: 'false'
-    alias: resourcepack
+    alias: ''
     color: WHITE
     style: NORMAL
     pvp: 'true'
-    scale: '1.0'
+    scale: '16.0'
     respawnWorld: ''
     allowWeather: 'true'
     difficulty: EASY
@@ -78,21 +78,21 @@ worlds:
     autoHeal: 'true'
     adjustSpawn: 'true'
     portalForm: ALL
-    gameMode: CREATIVE
+    gameMode: SURVIVAL
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      x: 295.0
-      y: 235.0
-      z: 231.0
+      x: 0.0
+      y: 63.0
+      z: 0.0
       pitch: 0.0
       yaw: 0.0
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
-    environment: NORMAL
-    seed: '-2080401138284689659'
-    generator: VoidWorld
+    environment: THE_END
+    seed: '-7644411107674349350'
+    generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
   test:
@@ -143,14 +143,14 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  test_end:
+  resourcepack:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: resourcepack
     color: WHITE
     style: NORMAL
     pvp: 'true'
-    scale: '16.0'
+    scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
     difficulty: EASY
@@ -174,21 +174,21 @@ worlds:
     autoHeal: 'true'
     adjustSpawn: 'true'
     portalForm: ALL
-    gameMode: SURVIVAL
+    gameMode: CREATIVE
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      x: 0.0
-      y: 63.0
-      z: 0.0
+      x: 295.0
+      y: 235.0
+      z: 231.0
       pitch: 0.0
       yaw: 0.0
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
-    environment: THE_END
-    seed: '-7644411107674349350'
-    generator: 'null'
+    environment: NORMAL
+    seed: '-2080401138284689659'
+    generator: VoidWorld
     playerLimit: '-1'
     allowFlight: 'true'
   island:
