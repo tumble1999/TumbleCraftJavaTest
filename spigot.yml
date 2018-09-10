@@ -14,9 +14,6 @@ config-version: 11
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  bungeecord: false
-  late-bind: false
-  sample-count: 12
   player-shuffle: 0
   attribute:
     maxHealth:
@@ -25,16 +22,19 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  int-cache-limit: 1024
-  user-cache-size: 1000
-  netty-threads: 4
   timeout-time: 60
   restart-on-crash: true
   restart-script: START.bat
+  late-bind: false
+  int-cache-limit: 1024
+  bungeecord: false
+  netty-threads: 4
   item-dirty-ticks: 20
-  moved-wrongly-threshold: 0.0625
-  filter-creative-items: true
+  sample-count: 12
+  user-cache-size: 1000
   moved-too-quickly-multiplier: 10.0
+  filter-creative-items: true
+  moved-wrongly-threshold: 0.0625
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -44,9 +44,9 @@ messages:
   restart: Server is restarting
 commands:
   tab-complete: 0
+  log: structure
   spam-exclusions:
   - /skill
-  log: structure
   replace-commands:
   - setblock
   - summon
