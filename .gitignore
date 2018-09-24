@@ -3,3 +3,4 @@ logs/
 *.tmp
 
 plugins/dynmap/web/tiles/
+plugins/DiscordSRV/config.yml*
