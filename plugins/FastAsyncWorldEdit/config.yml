@@ -1,9 +1,9 @@
 # These first 6 aren't configurable
 issues: "https://github.com/boy0001/FastAsyncWorldedit/issues"
 wiki: "https://github.com/boy0001/FastAsyncWorldedit/wiki/"
-date: "15 Oct 2018 23:00:00 GMT"
-build: "https://ci.athion.net/job/FastAsyncWorldEdit/1215"
-commit: "https://github.com/boy0001/FastAsyncWorldedit/commit/b7f1ee3"
+date: "22 Oct 2018 23:00:00 GMT"
+build: "https://ci.athion.net/job/FastAsyncWorldEdit/1216"
+commit: "https://github.com/boy0001/FastAsyncWorldedit/commit/28ee68f"
 platform: "bukkit"
 # Options: de, es, fr, nl, ru, tr
 # Create a PR to contribute a translation: https://github.com/boy0001/FastAsyncWorldedit/new/master/core/src/main/resources
