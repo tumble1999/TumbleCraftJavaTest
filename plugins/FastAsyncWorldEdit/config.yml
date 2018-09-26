@@ -12,7 +12,7 @@ language: ''
 #  - true = update automatically in the background
 #  - confirm = prompt an admin to confirm each update
 #  - false = do not update the plugin
-update: "true"
+update: "confirm"
 # Send anonymous usage statistics
 metrics: true
 # Set true to enable WorldEdit restrictions per region (e.g. PlotSquared or WorldGuard).
@@ -55,7 +55,7 @@ lighting:
 # Generic tick limiter (not necessarily WorldEdit related, but useful to stop abuse)
 tick-limiter:
   # Enable the limiter
-  enabled: false
+  enabled: true
   # The interval in ticks
   interval: 20
   # Max falling blocks per interval (per chunk)
