@@ -1,4 +1,12 @@
 lastAccountName: Crystal4412
 timestamps:
   login: 1538253998135
+  logout: 1538254063032
 ipAddress: 96.59.166.29
+logoutlocation:
+  world: world
+  x: 339.5873910030165
+  y: 75.0
+  z: 170.38847637172674
+  yaw: -101.39999
+  pitch: 2.399979
