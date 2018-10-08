@@ -14,19 +14,17 @@ config-version: 11
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  moved-too-quickly-multiplier: 10.0
-  moved-wrongly-threshold: 0.0625
-  filter-creative-items: true
-  bungeecord: false
-  late-bind: false
-  sample-count: 12
-  player-shuffle: 0
   user-cache-size: 1000
-  int-cache-limit: 1024
-  item-dirty-ticks: 20
   timeout-time: 60
   restart-on-crash: true
   restart-script: START.bat
+  player-shuffle: 0
+  late-bind: false
+  sample-count: 12
+  netty-threads: 4
+  int-cache-limit: 1024
+  item-dirty-ticks: 20
+  bungeecord: false
   attribute:
     maxHealth:
       max: 2048.0
@@ -34,17 +32,12 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  netty-threads: 4
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  filter-creative-items: true
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
 commands:
   tab-complete: 0
-  silent-commandblock-console: true
+  log: structure
   spam-exclusions:
   - /skill
   replace-commands:
@@ -52,14 +45,21 @@ commands:
   - summon
   - testforblock
   - tellraw
-  log: structure
+  silent-commandblock-console: true
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
+stats:
+  disable-saving: false
+  forced-stats: {}
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
-stats:
-  disable-saving: false
-  forced-stats: {}
 world-settings:
   default:
     verbose: true
