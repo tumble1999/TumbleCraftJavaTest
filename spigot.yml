@@ -14,13 +14,7 @@ config-version: 11
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  netty-threads: 4
-  user-cache-size: 1000
-  item-dirty-ticks: 20
   bungeecord: false
-  sample-count: 12
-  int-cache-limit: 1024
-  player-shuffle: 0
   attribute:
     maxHealth:
       max: 2048.0
@@ -28,10 +22,16 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  late-bind: false
+  int-cache-limit: 1024
+  sample-count: 12
+  player-shuffle: 0
   timeout-time: 60
   restart-on-crash: true
   restart-script: START.bat
+  netty-threads: 4
+  user-cache-size: 1000
+  item-dirty-ticks: 20
+  late-bind: false
   moved-too-quickly-multiplier: 10.0
   filter-creative-items: true
   moved-wrongly-threshold: 0.0625
@@ -44,7 +44,6 @@ messages:
   restart: Server is restarting
 commands:
   tab-complete: 0
-  log: structure
   spam-exclusions:
   - /skill
   replace-commands:
@@ -52,6 +51,7 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: structure
   silent-commandblock-console: true
 stats:
   disable-saving: false
