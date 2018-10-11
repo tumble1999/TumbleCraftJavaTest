@@ -14,13 +14,17 @@ config-version: 11
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  bungeecord: false
-  late-bind: false
-  sample-count: 12
   player-shuffle: 0
+  late-bind: false
+  bungeecord: false
   user-cache-size: 1000
-  int-cache-limit: 1024
+  sample-count: 12
   item-dirty-ticks: 20
+  int-cache-limit: 1024
+  netty-threads: 4
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: START.bat
   attribute:
     maxHealth:
       max: 2048.0
@@ -28,24 +32,9 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  netty-threads: 4
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: START.bat
   moved-too-quickly-multiplier: 10.0
-  moved-wrongly-threshold: 0.0625
   filter-creative-items: true
-commands:
-  tab-complete: 0
-  log: structure
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: true
+  moved-wrongly-threshold: 0.0625
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -53,6 +42,17 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
+commands:
+  tab-complete: 0
+  log: structure
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  silent-commandblock-console: true
 stats:
   disable-saving: false
   forced-stats: {}
